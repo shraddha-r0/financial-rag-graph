@@ -1,15 +1,27 @@
 # Financial Analytics with Natural Language
 
 ## 🚀 Overview
-**Financial Analytics with Natural Language** is an AI-powered application that allows users to query their financial data using natural language. The application processes these queries through a series of specialized nodes, each responsible for a specific part of the pipeline, from understanding the user's intent to generating insightful visualizations.
+**Financial Analytics with Natural Language** is an AI-powered application that allows users to query their financial data using natural language. Built on **LangGraph**, the application processes these queries through a series of specialized nodes, each responsible for a specific part of the pipeline, from understanding the user's intent to generating insightful visualizations.
 
 ## 🏗️ Architecture
-The application is built using a modular, node-based architecture where each node performs a specific function in the query processing pipeline. The system is designed to be extensible, allowing for easy addition of new capabilities and integrations.
+The application is built using **LangGraph**, a powerful library for building stateful, multi-actor applications with LLMs. The system is structured as a directed graph where:
+
+- Each node represents a specific processing step
+- Edges define the flow of data between nodes
+- A shared state object is passed between nodes
+- Built-in error handling and retry mechanisms
+- Full observability into the execution flow
+
+This architecture enables:
+- **State Management**: Each node receives and modifies a shared state object
+- **Concurrent Processing**: Nodes can process data in parallel when possible
+- **Flexible Orchestration**: Easy to add, remove, or modify processing steps
+- **Error Resilience**: Graceful error handling and recovery
 
 ## 🔍 Node Descriptions
 
 ### 1. Intent Parser Node
-**Purpose**: Understands the user's natural language query and extracts structured intent.
+**Purpose**: Understands the user's natural language query and extracts structured intent using LangGraph's state management.
 - Identifies query type (e.g., spending analysis, category breakdown)
 - Extracts time ranges, categories, and other filters
 - Determines the appropriate visualization type
@@ -52,6 +64,7 @@ The application is built using a modular, node-based architecture where each nod
 
 ## 🛠️ Technologies Used
 - **Backend**: Python 3.11+
+- **Orchestration**: LangGraph
 - **Natural Language Processing**: OpenAI GPT models
 - **Database**: SQLite (with support for other SQL databases)
 - **Data Visualization**: Matplotlib, Plotly
@@ -60,16 +73,18 @@ The application is built using a modular, node-based architecture where each nod
 
 ## 🔄 Data Flow
 1. User submits a natural language query
-2. Intent Parser extracts structured intent
-3. Category Resolver normalizes category names
-4. SQL Planner generates optimized queries
-5. Database Executor retrieves the data
-6. Chart Generator creates visualizations
-7. Answer Synthesizer combines everything into a response
-8. Error Handler manages any issues that arise
+2. LangGraph orchestrates the flow between nodes
+3. Intent Parser extracts structured intent
+4. Category Resolver normalizes category names
+5. SQL Planner generates optimized queries
+6. Database Executor retrieves the data
+7. Chart Generator creates visualizations
+8. Answer Synthesizer combines everything into a response
+9. Error Handler manages any issues that arise
 
 ## 📦 Dependencies
 - Python 3.11+
+- LangGraph
 - OpenAI API key
 - Required Python packages (see `requirements.txt`)
 

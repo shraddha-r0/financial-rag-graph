@@ -61,7 +61,7 @@ async def process_query(query: str, debug: bool = False) -> None:
             results=result.metadata.get("results", []),
             start_time=start_time,
             end_time=end_time,
-            chart_path=result.chart_path,
+            chart_path=result.artifacts[0]["path"] if result.artifacts else None,
             metadata={
                 "query_type": result.metadata.get("intent", {}).get("intent_type"),
                 "result_count": len(result.metadata.get("results", [])),
@@ -76,8 +76,10 @@ async def process_query(query: str, debug: bool = False) -> None:
             print(f"Query ID: {query_logger.get_recent_queries(1)[0]['query_id']}")
             print(f"Execution time: {int((end_time - start_time) * 1000)}ms")
             
-            if result.chart_path:
-                print(f"Chart saved to: {result.chart_path}")
+            if result.artifacts:
+                for artifact in result.artifacts:
+                    if "path" in artifact:
+                        print(f"Artifact saved to: {artifact['path']}")
             
             print("Log file:", query_logger.log_file.absolute())
         

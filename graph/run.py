@@ -22,10 +22,18 @@ async def run_query(query_text: str) -> Answer:
         # Execute the graph
         final_state = await graph.ainvoke(initial_state)
         
-        # Return the answer or error message
-        if final_state.error:
+        # Check for errors in the final state
+        if hasattr(final_state, 'error') and final_state.error:
             return Answer(markdown=f"Error: {final_state.error}")
-        return final_state.answer or Answer(markdown="No results found.")
+        
+        # Ensure we have an answer with metadata
+        answer = final_state.answer if hasattr(final_state, 'answer') else Answer(markdown="No results found.")
+        
+        # Add metadata if available
+        if hasattr(answer, 'metadata') and hasattr(final_state, 'metadata'):
+            answer.metadata.update(final_state.metadata)
+            
+        return answer
         
     except Exception as e:
         # Handle any unexpected errors

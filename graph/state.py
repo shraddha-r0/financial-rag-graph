@@ -473,6 +473,10 @@ class Answer(BaseModel):
         None,
         description="The data used to generate this answer"
     )
+    metadata: Dict[str, Any] = Field(
+        default_factory=dict,
+        description="Additional metadata about the answer"
+    )
     
     def add_chart(
         self,

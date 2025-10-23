@@ -114,6 +114,31 @@ class DBExecutor:
             logger.error(f"Error listing tables: {e}")
             return []
 
+def execute_query(
+    sql: str, 
+    db_path: str,
+    params: Optional[Dict[str, Any]] = None,
+    fetch_all: bool = True
+) -> QueryResult:
+    """
+    Execute a SQL query and return the results.
+    
+    This is a convenience function that creates a DBExecutor instance
+    and executes the query.
+    
+    Args:
+        sql: The SQL query to execute
+        db_path: Path to the SQLite database file
+        params: Optional parameters for the query
+        fetch_all: Whether to fetch all results or just the first row
+        
+    Returns:
+        QueryResult containing the results
+    """
+    executor = DBExecutor(db_path)
+    return executor.execute_query(sql, params=params, fetch_all=fetch_all)
+
+
 # Example usage:
 if __name__ == "__main__":
     # Initialize with your database path

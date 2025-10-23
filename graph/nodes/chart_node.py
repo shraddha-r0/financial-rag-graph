@@ -17,8 +17,129 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+from typing import Optional, Dict, Any, List
+from dataclasses import dataclass
 
 logger = logging.getLogger(__name__)
+
+@dataclass
+class ChartSpec:
+    """Specification for generating a chart."""
+    chart_type: str
+    x_axis: str
+    y_axis: str
+    title: str
+    x_title: str
+    y_title: str
+    color_theme: str = "plotly"
+    width: int = 800
+    height: int = 500
+    
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert to dictionary for JSON serialization."""
+        return {
+            "chart_type": self.chart_type,
+            "x_axis": self.x_axis,
+            "y_axis": self.y_axis,
+            "title": self.title,
+            "x_title": self.x_title,
+            "y_title": self.y_title,
+            "color_theme": self.color_theme,
+            "width": self.width,
+            "height": self.height
+        }
+
+def generate_chart_spec(
+    results: List[Dict[str, Any]],
+    intent: Dict[str, Any],
+    chart_type: Optional[str] = None
+) -> Optional[ChartSpec]:
+    """
+    Generate a chart specification based on query results and intent.
+    
+    Args:
+        results: Query results as a list of dictionaries
+        intent: Parsed intent from the query
+        chart_type: Optional override for chart type
+        
+    Returns:
+        ChartSpec if a chart should be generated, None otherwise
+    """
+    if not results:
+        return None
+        
+    # Determine chart type from intent if not specified
+    if not chart_type:
+        if intent.get("is_comparison", False):
+            chart_type = "bar"
+        elif intent.get("intent_type") == "spending_by_category":
+            chart_type = "pie" if len(results) <= 10 else "bar"
+        elif intent.get("time_granularity"):
+            chart_type = "line"
+        else:
+            chart_type = "bar"
+    
+    # Get column names from results
+    columns = list(results[0].keys()) if results else []
+    
+    # Determine x and y axes
+    x_axis = None
+    y_axis = None
+    
+    # Common time-based columns
+    time_columns = ["date", "time_period", "month", "year", "day"]
+    
+    # Find x-axis (prefer time-based columns)
+    for col in time_columns:
+        if col in columns:
+            x_axis = col
+            break
+    
+    # If no time column found, use the first non-numeric column for x-axis
+    if not x_axis:
+        for col in columns:
+            if not any(isinstance(r.get(col), (int, float)) for r in results):
+                x_axis = col
+                break
+    
+    # Find y-axis (prefer numeric columns)
+    for col in columns:
+        if col != x_axis and all(isinstance(r.get(col), (int, float)) for r in results if r.get(col) is not None):
+            y_axis = col
+            break
+    
+    # If no y-axis found, use the first numeric column
+    if not y_axis:
+        for col in columns:
+            if col != x_axis and any(isinstance(r.get(col), (int, float)) for r in results if r.get(col) is not None):
+                y_axis = col
+                break
+    
+    if not x_axis or not y_axis:
+        return None
+    
+    # Generate title based on intent
+    title = ""
+    if intent.get("is_comparison", False):
+        title = f"Comparison of {y_axis.replace('_', ' ').title()}"
+    elif intent.get("intent_type") == "spending_by_category":
+        title = f"Spending by {x_axis.replace('_', ' ').title()}"
+    elif intent.get("time_granularity"):
+        title = f"{y_axis.replace('_', ' ').title()} Over Time"
+    else:
+        title = f"{y_axis.replace('_', ' ').title()} by {x_axis.replace('_', ' ').title()}"
+    
+    return ChartSpec(
+        chart_type=chart_type,
+        x_axis=x_axis,
+        y_axis=y_axis,
+        title=title,
+        x_title=x_axis.replace("_", " ").title(),
+        y_title=y_axis.replace("_", " ").title(),
+        color_theme="plotly",
+        width=800,
+        height=500
+    )
 
 ChartType = Literal["line", "bar", "pie", "scatter", "area"]
 

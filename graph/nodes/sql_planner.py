@@ -5,10 +5,16 @@ This module generates SQL queries based on the parsed intent.
 It uses a template-based approach to ensure safe and efficient queries.
 """
 
-from typing import Dict, List, Optional, Tuple, Any, Literal
+from typing import Dict, List, Optional, Tuple, Any, Literal, TypedDict
 from datetime import datetime
 from enum import Enum
-from typing import Dict, Any
+from dataclasses import dataclass
+
+@dataclass
+class SQLPlan:
+    """Container for SQL query plan."""
+    query: str
+    params: Dict[str, Any]
 
 class SQLTemplateType(str, Enum):
     """Types of SQL templates available."""
@@ -267,16 +273,30 @@ class SQLPlanner:
             return "strftime('%Y-%m', date)"
 
 
-def plan_sql(intent: Dict[str, Any], table_name: str = "transactions") -> Tuple[str, Dict[str, Any]]:
+def plan_sql(intent: Dict[str, Any], table_name: str = "expenses") -> Tuple[str, Dict[str, Any]]:
     """
     Generate SQL query and parameters from a parsed intent.
     
     Args:
         intent: Parsed intent dictionary
-        table_name: Name of the transactions table
+        table_name: Name of the transactions table (default: 'expenses')
         
     Returns:
         Tuple of (sql_query, parameters)
     """
     planner = SQLPlanner(table_name=table_name)
     return planner.plan_sql(intent)
+
+
+def generate_sql_plan(intent: Dict[str, Any]) -> SQLPlan:
+    """
+    Generate a SQL plan from a parsed intent.
+    
+    Args:
+        intent: The parsed intent dictionary
+        
+    Returns:
+        SQLPlan object containing the query and parameters
+    """
+    query, params = plan_sql(intent, table_name="expenses")
+    return SQLPlan(query=query, params=params)

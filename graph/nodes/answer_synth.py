@@ -197,9 +197,47 @@ class AnswerSynthesizer:
                 "query": query,
                 "result_count": 0,
                 **metadata
-            }
-        )
+            })
+
+
+def generate_answer(
+    results: List[Dict[str, Any]],
+    intent: Dict[str, Any],
+    chart_spec: Optional[Dict[str, Any]] = None
+) -> str:
+    """
+    Generate a natural language answer from query results.
     
+    Args:
+        results: List of result rows as dictionaries
+        intent: The parsed intent from the query
+        chart_spec: Optional chart specification if a chart was generated
+        
+    Returns:
+        A markdown-formatted string with the answer
+    """
+    if not results:
+        return "No results found matching your query."
+    
+    synthesizer = AnswerSynthesizer()
+    
+    # Prepare metadata
+    metadata = {
+        'intent': intent,
+        'result_count': len(results),
+        'columns': list(results[0].keys()) if results else []
+    }
+    
+    # Generate the answer
+    answer = synthesizer.synthesize_answer(
+        query=intent.get('original_query', ''),
+        results=results,
+        metadata=metadata,
+        chart_path=chart_spec.get('path') if chart_spec else None
+    )
+    
+    return answer.markdown
+
     def _format_spending_by_category(self, query: str, results: List[Dict[str, Any]], 
                                   metadata: Dict[str, Any], chart_path: Optional[str]) -> Answer:
         """Format spending by category results."""

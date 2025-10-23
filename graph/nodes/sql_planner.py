@@ -134,7 +134,7 @@ class SQLPlanner:
         
         sql = template.format(
             time_expr=time_expr,
-            select_expression="SUM(amount) as total_amount",
+            select_expression="SUM(amount_clp) as total_amount, COUNT(*) as transaction_count",
             table_name=self.table_name,
             where_clause=where_clause
         )
@@ -149,7 +149,7 @@ class SQLPlanner:
         where_clause, where_params = self._build_where_clause(intent)
         
         sql = template.format(
-            select_expression="SUM(amount) as total_amount",
+            select_expression="SUM(amount_clp) as total_amount, COUNT(*) as transaction_count",
             table_name=self.table_name,
             where_clause=where_clause,
             order_expression="total_amount",
@@ -169,7 +169,7 @@ class SQLPlanner:
         
         sql = template.format(
             dimension=dimension,
-            select_expression="SUM(amount) as total_amount",
+            select_expression="SUM(amount_clp) as total_amount, COUNT(*) as transaction_count",
             table_name=self.table_name,
             where_clause=where_clause,
             order_expression="total_amount",
@@ -246,11 +246,11 @@ class SQLPlanner:
         
         # Amount filters (min/max)
         if "min_amount" in intent.get("filters", {}):
-            conditions.append("amount >= :min_amount")
+            conditions.append("amount_clp >= :min_amount")
             params["min_amount"] = float(intent["filters"]["min_amount"])
         
         if "max_amount" in intent.get("filters", {}):
-            conditions.append("amount <= :max_amount")
+            conditions.append("amount_clp <= :max_amount")
             params["max_amount"] = float(intent["filters"]["max_amount"])
         
         where_clause = f"WHERE {' AND '.join(conditions)}" if conditions else ""

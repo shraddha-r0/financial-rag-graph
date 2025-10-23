@@ -9,6 +9,7 @@ This package contains the main processing nodes for the financial analytics pipe
 """
 
 from .intent_parser import parse_intent, IntentType, TimeGranularity, ParsedIntent
+from .llm_intent_parser import parse_intent_with_llm, LLMIntentParser
 from .category_resolver import resolve_categories, CategoryResolver
 from .sql_planner import SQLPlanner, SQLTemplateType, SQLPlan, plan_sql, generate_sql_plan
 from .db_executor import DBExecutor, execute_query, QueryResult
@@ -18,7 +19,7 @@ from .answer_synth import generate_answer
 
 __all__ = [
     # Intent Parser
-    'parse_intent', 'IntentType', 'TimeGranularity', 'ParsedIntent',
+    'parse_intent', 'parse_intent_with_llm', 'LLMIntentParser', 'IntentType', 'TimeGranularity', 'ParsedIntent',
     
     # Category Resolver
     'resolve_categories', 'CategoryResolver',

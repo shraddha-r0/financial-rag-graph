@@ -82,13 +82,37 @@ def parse_intent(query: str) -> ParsedIntent:
     # 3. Extract time granularity
     intent["time_granularity"] = _extract_time_granularity(query)
     
-    # 4. Extract dimensions
+    # 4. Extract dimensions and filters
     if "by" in query:
         # Simple keyword-based dimension detection
         if "category" in query or any(word in query for word in ["categories", "type"]):
             intent["dimensions"].append("category")
         if "merchant" in query or "store" in query:
             intent["dimensions"].append("merchant")
+    
+    # 5. Extract category filters (e.g., 'spent on coffee', 'for groceries')
+    category_keywords = ["on ", "for ", "spent on ", "spend on ", "spending on "]
+    for keyword in category_keywords:
+        if keyword in query:
+            # Extract text after the keyword
+            parts = query.split(keyword, 1)
+            if len(parts) > 1:
+                # Get the next word or phrase as potential category
+                category_text = parts[1].split()[0]  # Just take the next word for now
+                if category_text:
+                    intent["filters"]["category"] = [category_text]
+                    break
+    
+    # Special case for common categories that might be mentioned directly
+    common_categories = ["coffee", "food", "groceries", "rent", "utilities", "transport", "entertainment"]
+    for category in common_categories:
+        if category in query:
+            if "filters" not in intent:
+                intent["filters"] = {}
+            if "category" not in intent["filters"]:
+                intent["filters"]["category"] = []
+            if category not in intent["filters"]["category"]:
+                intent["filters"]["category"].append(category)
     
     # 5. Handle comparisons
     if intent["is_comparison"]:

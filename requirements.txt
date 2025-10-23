@@ -1,0 +1,10 @@
+langgraph
+mcp
+openai
+sqlite-utils 
+pandas
+numpy
+python-dotenv
+sentence-transformers
+matplotlib
+pydantic

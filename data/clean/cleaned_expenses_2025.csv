@@ -1,0 +1,971 @@
+date,category,tags,expense,income,amount_clp,description,day
+2025-01-01,Leisure,books,0.84,0.0,612.0,Audible ,Wednesday
+2025-01-01,Food & Drinks,restaurants,11853.0,0.0,11853.0,none,Wednesday
+2025-01-02,Food & Drinks,restaurants,8180.0,0.0,8180.0,none,Thursday
+2025-01-02,Health & Personal Care,none,120000.0,0.0,120000.0,none,Thursday
+2025-01-02,Food & Drinks,restaurants,7950.0,0.0,7950.0,none,Thursday
+2025-01-03,Health & Personal Care,none,260000.0,0.0,260000.0,Therapy ,Friday
+2025-01-03,Health & Personal Care,medical services,45000.0,0.0,45000.0,Orthodontist,Friday
+2025-01-03,Home & Utilities,rent,849000.0,0.0,849000.0,none,Friday
+2025-01-03,Food & Drinks,groceries,1450.0,0.0,1450.0,none,Friday
+2025-01-04,Food & Drinks,restaurants,14209.0,0.0,14209.0,none,Saturday
+2025-01-04,Food & Drinks,groceries,2490.0,0.0,2490.0,none,Saturday
+2025-01-04,Home & Utilities,home improvement,9280.0,0.0,9280.0,The Pink Stuff,Saturday
+2025-01-04,Leisure,movies & TV,6.38,0.0,6400.0,Disney plus,Saturday
+2025-01-04,Home & Utilities,home improvement,15980.0,0.0,15980.0,Shower mat,Saturday
+2025-01-05,Food & Drinks,coffee & tea,4400.0,0.0,4400.0,none,Sunday
+2025-01-05,Food & Drinks,groceries,25116.0,0.0,25116.0,none,Sunday
+2025-01-06,Food & Drinks,restaurants,6890.0,0.0,6890.0,none,Monday
+2025-01-07,Food & Drinks,restaurants,4400.0,0.0,4400.0,none,Tuesday
+2025-01-07,Home & Utilities,utilities,54060.0,0.0,54060.0,Freemet cleaning,Tuesday
+2025-01-07,Home & Utilities,utilities,14476.0,0.0,14476.0,Enel,Tuesday
+2025-01-08,Food & Drinks,groceries,15370.0,0.0,15370.0,none,Wednesday
+2025-01-09,Food & Drinks,restaurants,7280.0,0.0,7280.0,none,Thursday
+2025-01-09,Food & Drinks,restaurants,1690.0,0.0,1690.0,none,Thursday
+2025-01-10,Home & Utilities,internet,25819.0,0.0,25819.0,none,Friday
+2025-01-10,Food & Drinks,restaurants,11329.0,0.0,11329.0,none,Friday
+2025-01-10,Education,AI,23.8,0.0,24025.0,ChatGPT,Friday
+2025-01-10,Home & Utilities,home improvement,17890.0,0.0,17890.0,Adapters,Friday
+2025-01-11,Food & Drinks,coffee & tea,13530.0,0.0,13530.0,none,Saturday
+2025-01-11,Transport,taxi,3497.0,0.0,3497.0,none,Saturday
+2025-01-11,Education,AI,2990.0,0.0,2990.0,Bear Pro,Saturday
+2025-01-12,Transport,taxi,2619.0,0.0,2619.0,none,Sunday
+2025-01-12,Transport,taxi,12196.0,0.0,12196.0,none,Sunday
+2025-01-12,Food & Drinks,restaurants,20559.0,0.0,20559.0,none,Sunday
+2025-01-12,Food & Drinks,groceries,37862.0,0.0,37862.0,none,Sunday
+2025-01-13,Food & Drinks,restaurants,7950.0,0.0,7950.0,none,Monday
+2025-01-13,Health & Personal Care,medical services,263736.0,0.0,263736.0,Banmedica,Monday
+2025-01-13,Food & Drinks,groceries,18700.0,0.0,18700.0,none,Monday
+2025-01-13,Leisure,movies & TV,9.19,0.0,6772.0,none,Monday
+2025-01-14,Food & Drinks,restaurants,8800.0,0.0,8800.0,none,Tuesday
+2025-01-14,Transport,taxi,24298.0,0.0,24298.0,none,Tuesday
+2025-01-14,Food & Drinks,groceries,9120.0,0.0,9120.0,none,Tuesday
+2025-01-14,Food & Drinks,coffee & tea,6600.0,0.0,6600.0,none,Tuesday
+2025-01-14,Home & Utilities,mobile phone,22990.0,0.0,22990.0,Phone charger,Tuesday
+2025-01-14,Transport,accommodation,736603.0,0.0,736603.0,Pop city hotel for mom and dad,Tuesday
+2025-01-14,Food & Drinks,restaurants,11200.0,0.0,11200.0,none,Tuesday
+2025-01-14,Gifts,none,11990.0,0.0,11990.0,Water bottle,Tuesday
+2025-01-15,Transport,taxi,4678.0,0.0,4678.0,none,Wednesday
+2025-01-15,Food & Drinks,groceries,10970.0,0.0,10970.0,none,Wednesday
+2025-01-15,Food & Drinks,groceries,5900.0,0.0,5900.0,none,Wednesday
+2025-01-15,Food & Drinks,groceries,18150.0,0.0,18150.0,none,Wednesday
+2025-01-15,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-01-15,Transport,taxi,4998.0,0.0,4998.0,none,Wednesday
+2025-01-16,Food & Drinks,coffee & tea,24800.0,0.0,24800.0,none,Thursday
+2025-01-16,Transport,taxi,4897.0,0.0,4897.0,none,Thursday
+2025-01-16,Food & Drinks,groceries,24417.0,0.0,24417.0,none,Thursday
+2025-01-16,Food & Drinks,restaurants,54560.0,0.0,54560.0,none,Thursday
+2025-01-17,Transport,travel,107118.0,0.0,107118.0,Cajón de Maipo tour,Friday
+2025-01-17,Food & Drinks,restaurants,3000.0,0.0,3000.0,Ice cream,Friday
+2025-01-18,Food & Drinks,coffee & tea,2200.0,0.0,2200.0,none,Saturday
+2025-01-18,Transport,taxi,1419.0,0.0,1419.0,none,Saturday
+2025-01-18,Food & Drinks,coffee & tea,4350.0,0.0,4350.0,none,Saturday
+2025-01-18,Transport,taxi,2999.0,0.0,2999.0,none,Saturday
+2025-01-18,Food & Drinks,groceries,23016.0,0.0,23016.0,none,Saturday
+2025-01-18,Health & Personal Care,cosmetics,20990.0,0.0,20990.0,none,Saturday
+2025-01-18,Health & Personal Care,cosmetics,7990.0,0.0,7990.0,none,Saturday
+2025-01-19,Food & Drinks,groceries,32171.0,0.0,32171.0,none,Sunday
+2025-01-19,Transport,taxi,6939.0,0.0,6939.0,none,Sunday
+2025-01-19,Gifts,none,6000.0,0.0,6000.0,Souvenir for mom ,Sunday
+2025-01-19,Transport,taxi,4579.0,0.0,4579.0,none,Sunday
+2025-01-20,Transport,taxi,7994.0,0.0,7994.0,none,Monday
+2025-01-20,Transport,travel,162000.0,0.0,162000.0,City tour,Monday
+2025-01-20,Transport,taxi,3899.0,0.0,3899.0,none,Monday
+2025-01-20,Transport,taxi,2309.0,0.0,2309.0,none,Monday
+2025-01-20,Food & Drinks,groceries,2120.0,0.0,2120.0,none,Monday
+2025-01-20,Health & Personal Care,gym/exercise,35.24,0.0,26189.0,ClassPass,Monday
+2025-01-21,Food & Drinks,groceries,39810.0,0.0,39810.0,none,Tuesday
+2025-01-21,Education,none,790.0,0.0,790.0,iCloud,Tuesday
+2025-01-21,Transport,airplane,932324.0,0.0,932324.0,none,Tuesday
+2025-01-21,Food & Drinks,restaurants,50960.0,0.0,50960.0,none,Tuesday
+2025-01-21,Health & Personal Care,none,10198.0,0.0,10198.0,Shower gel and eye drops,Tuesday
+2025-01-21,Transport,accommodation,625796.0,0.0,625796.0,Airbnb,Tuesday
+2025-01-21,Transport,taxi,12000.0,0.0,12000.0,none,Tuesday
+2025-01-21,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-01-22,Education,AI,29.0,0.0,28748.0,Sudowrite,Wednesday
+2025-01-22,Transport,travel,28000.0,0.0,28000.0,Entrada cueva de milodones,Wednesday
+2025-01-22,Food & Drinks,coffee & tea,3000.0,0.0,3000.0,none,Wednesday
+2025-01-22,Food & Drinks,restaurants,49900.0,0.0,49900.0,none,Wednesday
+2025-01-22,Transport,travel,74200.0,0.0,74200.0,Park entrance,Wednesday
+2025-01-22,Leisure,music,4.54,0.0,4501.0,Spotify ,Wednesday
+2025-01-22,Transport,travel,639000.0,0.0,639000.0,Torres del Paine tour,Wednesday
+2025-01-23,Food & Drinks,coffee & tea,7600.0,0.0,7600.0,none,Thursday
+2025-01-23,Food & Drinks,groceries,5000.0,0.0,5000.0,none,Thursday
+2025-01-24,Food & Drinks,restaurants,53570.0,0.0,53570.0,none,Friday
+2025-01-24,Food & Drinks,groceries,17317.0,0.0,17317.0,none,Friday
+2025-01-24,Health & Personal Care,massage,85000.0,0.0,85000.0,none,Friday
+2025-01-24,Gifts,none,8000.0,0.0,8000.0,Calafate jam for mom,Friday
+2025-01-25,Transport,taxi,2991.0,0.0,2991.0,none,Saturday
+2025-01-25,Food & Drinks,coffee & tea,9570.0,0.0,9570.0,none,Saturday
+2025-01-25,Transport,taxi,28000.0,0.0,28000.0,Boat museum,Saturday
+2025-01-25,Food & Drinks,restaurants,20280.0,0.0,20280.0,none,Saturday
+2025-01-25,Transport,travel,84000.0,0.0,84000.0,Punta Arenas city tour,Saturday
+2025-01-25,Transport,travel,48480.0,0.0,48480.0,Bus to Punta Arenas,Saturday
+2025-01-25,Transport,taxi,2195.0,0.0,2195.0,none,Saturday
+2025-01-26,Transport,taxi,6998.0,0.0,6998.0,none,Sunday
+2025-01-26,Food & Drinks,restaurants,36638.0,0.0,36638.0,none,Sunday
+2025-01-26,Food & Drinks,coffee & tea,4600.0,0.0,4600.0,none,Sunday
+2025-01-26,Food & Drinks,groceries,2080.0,0.0,2080.0,none,Sunday
+2025-01-27,Transport,taxi,2697.0,0.0,2697.0,none,Monday
+2025-01-27,Food & Drinks,groceries,32926.0,0.0,32926.0,none,Monday
+2025-01-27,Home & Utilities,gastos comunes,495301.0,0.0,495301.0,none,Monday
+2025-01-27,Food & Drinks,restaurants,33460.0,0.0,33460.0,none,Monday
+2025-01-27,Food & Drinks,groceries,8250.0,0.0,8250.0,none,Monday
+2025-01-27,Transport,taxi,3192.0,0.0,3192.0,none,Monday
+2025-01-27,Transport,taxi,27000.0,0.0,27000.0,Airport taxi,Monday
+2025-01-27,Clothing & Footwear,shoes,14990.0,0.0,14990.0,Sneak Clean ,Monday
+2025-01-27,Home & Utilities,cat,303000.0,0.0,303000.0,Leyla cat hotel,Monday
+2025-01-27,Home & Utilities,cat,57890.0,0.0,57890.0,Laqu litter,Monday
+2025-01-28,Health & Personal Care,cosmetics,31498.0,0.0,31498.0,Sunscreen,Tuesday
+2025-01-28,Food & Drinks,restaurants,39368.0,0.0,39368.0,none,Tuesday
+2025-01-29,Food & Drinks,restaurants,10000.0,0.0,10000.0,none,Wednesday
+2025-01-29,Transport,travel,237507.0,0.0,237507.0,Valpo Viña trip,Wednesday
+2025-01-29,Food & Drinks,coffee & tea,4180.0,0.0,4180.0,none,Wednesday
+2025-01-29,Food & Drinks,restaurants,35200.0,0.0,35200.0,none,Wednesday
+2025-01-29,Transport,taxi,3866.0,0.0,3866.0,none,Wednesday
+2025-01-29,Gifts,none,31000.0,0.0,31000.0,Gifts for family,Wednesday
+2025-01-29,Transport,taxi,3782.0,0.0,3782.0,none,Wednesday
+2025-01-30,Health & Personal Care,gym/exercise,15990.0,0.0,15990.0,ClassPass top up,Thursday
+2025-01-30,Transport,taxi,3693.0,0.0,3693.0,none,Thursday
+2025-01-30,Transport,taxi,4228.0,0.0,4228.0,none,Thursday
+2025-01-30,Transport,taxi,1855.0,0.0,1855.0,none,Thursday
+2025-01-31,Transport,taxi,3096.0,0.0,3096.0,none,Friday
+2025-01-31,Transport,taxi,3697.0,0.0,3697.0,none,Friday
+2025-01-31,Transport,taxi,7294.0,0.0,7294.0,none,Friday
+2025-01-31,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-01-31,Clothing & Footwear,accessories,53990.0,0.0,53990.0,Kadú bag,Friday
+2025-01-31,Food & Drinks,restaurants,41976.0,0.0,41976.0,none,Friday
+2025-02-01,Gifts,none,28698.0,0.0,28698.0,Maqui powder,Saturday
+2025-02-01,Health & Personal Care,medicine,15377.0,0.0,15377.0,Lexapro,Saturday
+2025-02-02,Gifts,none,20500.0,0.0,20500.0,Walnuts for mom,Sunday
+2025-02-02,Food & Drinks,groceries,3500.0,0.0,3500.0,Brekkie bread,Sunday
+2025-02-02,Food & Drinks,groceries,20242.0,0.0,20242.0,none,Sunday
+2025-02-02,Health & Personal Care,medical services,195000.0,0.0,195000.0,Therapy,Sunday
+2025-02-03,Leisure,books,0.86,0.0,623.0,Audible,Monday
+2025-02-03,Food & Drinks,restaurants,9424.0,0.0,9424.0,none,Monday
+2025-02-03,Food & Drinks,groceries,22708.0,0.0,22708.0,none,Monday
+2025-02-03,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-02-03,Home & Utilities,rent,887205.0,0.0,887205.0,none,Monday
+2025-02-04,Transport,travel card,6000.0,0.0,6000.0,none,Tuesday
+2025-02-04,Education,AI,48.8,0.0,35316.0,Reflection AI,Tuesday
+2025-02-04,Food & Drinks,groceries,2340.0,0.0,2340.0,none,Tuesday
+2025-02-04,Health & Personal Care,medical services,1375580.0,0.0,1375580.0,Invisalign,Tuesday
+2025-02-05,Leisure,art,40260.0,0.0,40260.0,Canvases for gallery wall,Wednesday
+2025-02-06,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Thursday
+2025-02-06,Food & Drinks,restaurants,9303.0,0.0,9303.0,none,Thursday
+2025-02-06,Health & Personal Care,cosmetics,15992.0,0.0,15992.0,3ina concealer,Thursday
+2025-02-06,Food & Drinks,restaurants,5500.0,0.0,5500.0,none,Thursday
+2025-02-07,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-02-07,Food & Drinks,groceries,22512.0,0.0,22512.0,none,Friday
+2025-02-08,Food & Drinks,restaurants,13740.0,0.0,13740.0,none,Saturday
+2025-02-08,Transport,travel card,4000.0,0.0,4000.0,none,Saturday
+2025-02-08,Home & Utilities,water,188070.0,0.0,188070.0,Maihue,Saturday
+2025-02-08,Transport,taxi,3995.0,0.0,3995.0,none,Saturday
+2025-02-09,Food & Drinks,groceries,55182.0,0.0,55182.0,Protein powder,Sunday
+2025-02-09,Food & Drinks,groceries,31140.0,0.0,31140.0,none,Sunday
+2025-02-10,Food & Drinks,groceries,13909.0,0.0,13909.0,none,Monday
+2025-02-10,Home & Utilities,internet,26387.0,0.0,26387.0,none,Monday
+2025-02-10,Leisure,books,10000.0,0.0,10000.0,Club de lectura lela,Monday
+2025-02-11,Food & Drinks,groceries,1840.0,0.0,1840.0,none,Tuesday
+2025-02-11,Education,AI,2990.0,0.0,2990.0,Bear Pro,Tuesday
+2025-02-11,Food & Drinks,coffee & tea,4200.0,0.0,4200.0,none,Tuesday
+2025-02-13,Transport,taxi,3737.0,0.0,3737.0,none,Thursday
+2025-02-13,Leisure,events,13440.0,0.0,13440.0,Comedy at Chueca,Thursday
+2025-02-13,Transport,taxi,4703.0,0.0,4703.0,none,Thursday
+2025-02-13,Food & Drinks,groceries,26770.0,0.0,26770.0,none,Thursday
+2025-02-13,Food & Drinks,restaurants,11199.0,0.0,11199.0,none,Thursday
+2025-02-13,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Thursday
+2025-02-14,Transport,taxi,4128.0,0.0,4128.0,none,Friday
+2025-02-14,Food & Drinks,restaurants,7280.0,0.0,7280.0,none,Friday
+2025-02-14,Food & Drinks,restaurants,7290.0,0.0,7290.0,none,Friday
+2025-02-15,Leisure,movies & TV,9.55,0.0,6782.0,Netflix,Saturday
+2025-02-15,Home & Utilities,utilities,20852.0,0.0,20852.0,Enel,Saturday
+2025-02-15,Food & Drinks,restaurants,12050.0,0.0,12050.0,none,Saturday
+2025-02-15,Food & Drinks,restaurants,13909.0,0.0,13909.0,none,Saturday
+2025-02-15,Transport,taxi,3120.0,0.0,3120.0,none,Saturday
+2025-02-16,Food & Drinks,restaurants,15229.0,0.0,15229.0,none,Sunday
+2025-02-17,Education,none,229000.0,0.0,229000.0,Driving classes,Monday
+2025-02-17,Health & Personal Care,medical services,759086.0,0.0,759086.0,Banmedica,Monday
+2025-02-17,Health & Personal Care,gym/exercise,51.71,0.0,36537.0,Class Pass,Monday
+2025-02-17,Leisure,movies & TV,1945.0,0.0,1945.0,Cinema Flow,Monday
+2025-02-17,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Monday
+2025-02-18,Food & Drinks,restaurants,19030.0,0.0,19030.0,none,Tuesday
+2025-02-18,Health & Personal Care,manicure/pedicure,26500.0,0.0,26500.0,Pedicure,Tuesday
+2025-02-18,Transport,taxi,3566.0,0.0,3566.0,none,Tuesday
+2025-02-18,Transport,taxi,3461.0,0.0,3461.0,none,Tuesday
+2025-02-19,Food & Drinks,restaurants,11329.0,0.0,11329.0,none,Wednesday
+2025-02-19,Food & Drinks,groceries,40130.0,0.0,40130.0,none,Wednesday
+2025-02-20,Food & Drinks,groceries,5120.0,0.0,5120.0,none,Thursday
+2025-02-20,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Thursday
+2025-02-21,Home & Utilities,gastos comunes,206246.0,0.0,206246.0,none,Friday
+2025-02-21,Transport,taxi,4095.0,0.0,4095.0,none,Friday
+2025-02-21,Food & Drinks,restaurants,3000.0,0.0,3000.0,none,Friday
+2025-02-21,Education,none,790.0,0.0,790.0,iCloud,Friday
+2025-02-21,Education,none,15.0,0.0,14141.0,Upwork,Friday
+2025-02-21,Education,AI,11.89,0.0,11209.0,Google colab,Friday
+2025-02-21,Food & Drinks,restaurants,6980.0,0.0,6980.0,none,Friday
+2025-02-22,Education,AI,14.5,0.0,13670.0,Sudowrite,Saturday
+2025-02-22,Leisure,movies & TV,13500.0,0.0,13500.0,Disney Plus,Saturday
+2025-02-22,Clothing & Footwear,underwear,79970.0,0.0,79970.0,Bras and underwear from Women’s Secret,Saturday
+2025-02-23,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Sunday
+2025-02-24,Food & Drinks,groceries,11700.0,0.0,11700.0,none,Monday
+2025-02-24,Food & Drinks,restaurants,9570.0,0.0,9570.0,none,Monday
+2025-02-24,Transport,taxi,4090.0,0.0,4090.0,none,Monday
+2025-02-24,Transport,taxi,3191.0,0.0,3191.0,none,Monday
+2025-02-25,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-02-26,Food & Drinks,groceries,2000.0,0.0,2000.0,none,Wednesday
+2025-02-26,Food & Drinks,restaurants,14209.0,0.0,14209.0,none,Wednesday
+2025-02-27,Food & Drinks,restaurants,20570.0,0.0,20570.0,none,Thursday
+2025-02-27,Transport,taxi,4948.0,0.0,4948.0,none,Thursday
+2025-02-28,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Friday
+2025-02-28,Food & Drinks,coffee & tea,6400.0,0.0,6400.0,none,Friday
+2025-03-01,Health & Personal Care,medicine,23140.0,0.0,23140.0,B12 supplement,Saturday
+2025-03-01,Food & Drinks,groceries,60720.0,0.0,60720.0,Aldea Nativa restock,Saturday
+2025-03-01,Leisure,books,0.83,0.0,591.0,none,Saturday
+2025-03-01,Leisure,"events, music",84874.0,0.0,84874.0,BIG TIME RUSH!,Saturday
+2025-03-01,Food & Drinks,groceries,42230.0,0.0,42230.0,none,Saturday
+2025-03-01,Transport,taxi,17593.0,0.0,17593.0,none,Saturday
+2025-03-01,Transport,taxi,16372.0,0.0,16372.0,none,Saturday
+2025-03-02,Food & Drinks,groceries,38338.0,0.0,38338.0,none,Sunday
+2025-03-02,Food & Drinks,coffee & tea,1000.0,0.0,1000.0,none,Sunday
+2025-03-03,Leisure,violin,70000.0,0.0,70000.0,none,Monday
+2025-03-03,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-03-04,Home & Utilities,rent,887205.0,0.0,887205.0,none,Tuesday
+2025-03-05,Food & Drinks,restaurants,9354.0,0.0,9354.0,none,Wednesday
+2025-03-06,Transport,taxi,4197.0,0.0,4197.0,none,Thursday
+2025-03-06,Food & Drinks,coffee & tea,15950.0,0.0,15950.0,none,Thursday
+2025-03-06,Transport,taxi,11520.0,0.0,11520.0,none,Thursday
+2025-03-07,Transport,taxi,6026.0,0.0,6026.0,none,Friday
+2025-03-07,Food & Drinks,coffee & tea,14839.0,0.0,14839.0,none,Friday
+2025-03-07,Transport,travel card,4000.0,0.0,4000.0,none,Friday
+2025-03-08,Transport,taxi,4742.0,0.0,4742.0,none,Saturday
+2025-03-08,Health & Personal Care,gym/exercise,3000.0,0.0,3000.0,Outdoor  Zumba,Saturday
+2025-03-08,Food & Drinks,restaurants,10879.0,0.0,10879.0,none,Saturday
+2025-03-08,Clothing & Footwear,accessories,10013.0,0.0,10013.0,Fitbit strap replacement,Saturday
+2025-03-08,Food & Drinks,groceries,7500.0,0.0,7500.0,none,Saturday
+2025-03-09,Food & Drinks,restaurants,14980.0,0.0,14980.0,none,Sunday
+2025-03-09,Health & Personal Care,cosmetics,21500.0,0.0,21500.0,Face wash and hair gel,Sunday
+2025-03-09,Health & Personal Care,medicine,9099.0,0.0,9099.0,Contact lens solution,Sunday
+2025-03-10,Home & Utilities,internet,26387.0,0.0,26387.0,none,Monday
+2025-03-10,Home & Utilities,utilities,22332.0,0.0,22332.0,Enel,Monday
+2025-03-11,Clothing & Footwear,clothes,42180.0,0.0,42180.0,New clothes,Tuesday
+2025-03-11,Food & Drinks,restaurants,12480.0,0.0,12480.0,none,Tuesday
+2025-03-12,Clothing & Footwear,clothes,8776.0,0.0,8776.0,Second hand clothes,Wednesday
+2025-03-12,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-03-12,Food & Drinks,restaurants,7280.0,0.0,7280.0,none,Wednesday
+2025-03-13,Food & Drinks,groceries,33910.0,0.0,33910.0,none,Thursday
+2025-03-13,Education,AI,23.8,0.0,22243.0,ChatGPT,Thursday
+2025-03-13,Transport,taxi,6215.0,0.0,6215.0,none,Thursday
+2025-03-13,Food & Drinks,restaurants,12408.0,0.0,12408.0,Casa Cien,Thursday
+2025-03-14,Health & Personal Care,massage,36000.0,0.0,36000.0,none,Friday
+2025-03-14,Home & Utilities,cat,10000.0,0.0,10000.0,Hair trim,Friday
+2025-03-14,Food & Drinks,coffee & tea,8228.0,0.0,8228.0,Cool cats cafe,Friday
+2025-03-14,Food & Drinks,restaurants,9300.0,0.0,9300.0,none,Friday
+2025-03-15,Health & Personal Care,medicine,3598.0,0.0,3598.0,Lexapro,Saturday
+2025-03-15,Education,none,2990.0,0.0,2990.0,Bear Pro,Saturday
+2025-03-16,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Sunday
+2025-03-17,Food & Drinks,groceries,18970.0,0.0,18970.0,none,Monday
+2025-03-18,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign,Tuesday
+2025-03-19,Food & Drinks,restaurants,7500.0,0.0,7500.0,none,Wednesday
+2025-03-19,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-03-20,Food & Drinks,coffee & tea,5610.0,0.0,5610.0,none,Thursday
+2025-03-21,Food & Drinks,groceries,21389.0,0.0,21389.0,none,Friday
+2025-03-21,Education,none,790.0,0.0,790.0,iCloud,Friday
+2025-03-22,Leisure,movies & TV,13500.0,0.0,13500.0,Disney+,Saturday
+2025-03-22,Food & Drinks,restaurants,37818.0,0.0,37818.0,none,Saturday
+2025-03-22,Food & Drinks,restaurants,9804.0,0.0,9804.0,none,Saturday
+2025-03-22,Clothing & Footwear,accessories,44500.0,0.0,44500.0,Butterfly ring,Saturday
+2025-03-22,Transport,taxi,5993.0,0.0,5993.0,none,Saturday
+2025-03-23,Leisure,events,18.0,0.0,16700.0,Dan and Phil Terrible Influence Tour!!!,Sunday
+2025-03-23,Food & Drinks,groceries,37170.0,0.0,37170.0,none,Sunday
+2025-03-24,Leisure,music,4.89,0.0,4540.0,Spotify,Monday
+2025-03-24,Food & Drinks,coffee & tea,4400.0,0.0,4400.0,none,Monday
+2025-03-25,Leisure,books,13600.0,0.0,13600.0,none,Tuesday
+2025-03-25,Food & Drinks,coffee & tea,5280.0,0.0,5280.0,none,Tuesday
+2025-03-25,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-03-26,Food & Drinks,groceries,2000.0,0.0,2000.0,none,Wednesday
+2025-03-27,Food & Drinks,coffee & tea,3960.0,0.0,3960.0,none,Thursday
+2025-03-27,Transport,taxi,4297.0,0.0,4297.0,none,Thursday
+2025-03-27,Health & Personal Care,none,80000.0,0.0,80000.0,Psychiatrist,Thursday
+2025-03-27,Transport,taxi,5905.0,0.0,5905.0,none,Thursday
+2025-03-28,Home & Utilities,gastos comunes,178261.0,0.0,178261.0,none,Friday
+2025-03-28,Clothing & Footwear,accessories,6000.0,0.0,6000.0,Nespresso pod earrings,Friday
+2025-03-28,Clothing & Footwear,accessories,7000.0,0.0,7000.0,Earring charms,Friday
+2025-03-28,Clothing & Footwear,clothes,38000.0,0.0,38000.0,Crochet sweater,Friday
+2025-03-28,Food & Drinks,coffee & tea,4890.0,0.0,4890.0,none,Friday
+2025-03-28,Clothing & Footwear,accessories,10000.0,0.0,10000.0,Earrings,Friday
+2025-03-29,Clothing & Footwear,clothes,6940.0,0.0,6940.0,Second hand hoodie,Saturday
+2025-03-29,Food & Drinks,restaurants,27236.0,0.0,27236.0,none,Saturday
+2025-03-29,Leisure,events,20000.0,0.0,20000.0,Coffee workshop ,Saturday
+2025-03-29,Food & Drinks,coffee & tea,3591.0,0.0,3591.0,none,Saturday
+2025-03-29,Transport,travel card,4000.0,0.0,4000.0,none,Saturday
+2025-03-29,Transport,taxi,6493.0,0.0,6493.0,none,Saturday
+2025-03-30,Food & Drinks,groceries,37134.0,0.0,37134.0,none,Sunday
+2025-03-30,Health & Personal Care,gym/exercise,132980.0,0.0,132980.0,Walking pad,Sunday
+2025-03-30,Food & Drinks,restaurants,11771.0,0.0,11771.0,none,Sunday
+2025-03-31,Health & Personal Care,manicure/pedicure,29150.0,0.0,29150.0,none,Monday
+2025-03-31,Clothing & Footwear,accessories,25740.0,0.0,25740.0,Amethyst ring,Monday
+2025-03-31,Home & Utilities,laundry,30000.0,0.0,30000.0,Laundry shoes and quilt,Monday
+2025-04-01,Health & Personal Care,medical services,130000.0,0.0,130000.0,Therapy,Tuesday
+2025-04-01,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-04-03,Education,books/library,7.0,0.0,4983.0,Audible,Thursday
+2025-04-03,Transport,taxi,3816.0,0.0,3816.0,none,Thursday
+2025-04-04,Home & Utilities,rent,887205.0,0.0,887205.0,none,Friday
+2025-04-04,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Friday
+2025-04-04,Leisure,events,5000.0,0.0,5000.0,Stand up,Friday
+2025-04-04,Food & Drinks,restaurants,40656.0,0.0,40656.0,none,Friday
+2025-04-05,Transport,travel card,4000.0,0.0,4000.0,none,Saturday
+2025-04-05,Food & Drinks,coffee & tea,3080.0,0.0,3080.0,none,Saturday
+2025-04-05,Food & Drinks,restaurants,7280.0,0.0,7280.0,none,Saturday
+2025-04-06,Food & Drinks,restaurants,15223.0,0.0,15223.0,none,Sunday
+2025-04-06,Food & Drinks,coffee & tea,1780.0,0.0,1780.0,none,Sunday
+2025-04-06,Food & Drinks,restaurants,13909.0,0.0,13909.0,none,Sunday
+2025-04-07,Leisure,violin,70000.0,0.0,70000.0,none,Monday
+2025-04-07,Food & Drinks,groceries,46790.0,0.0,46790.0,none,Monday
+2025-04-07,Education,books/library,70700.0,0.0,70700.0,Silent Book Club pendon,Monday
+2025-04-09,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-04-09,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Wednesday
+2025-04-10,Transport,travel card,4000.0,0.0,4000.0,none,Thursday
+2025-04-10,Transport,taxi,8094.0,0.0,8094.0,none,Thursday
+2025-04-10,Home & Utilities,internet,26387.0,0.0,26387.0,none,Thursday
+2025-04-11,Education,none,2990.0,0.0,2990.0,Bear Pro ,Friday
+2025-04-11,Food & Drinks,groceries,9857.0,0.0,9857.0,none,Friday
+2025-04-12,Food & Drinks,restaurants,25861.0,0.0,25861.0,none,Saturday
+2025-04-12,Food & Drinks,coffee & tea,3500.0,0.0,3500.0,none,Saturday
+2025-04-12,Food & Drinks,coffee & tea,3800.0,0.0,3800.0,none,Saturday
+2025-04-13,Health & Personal Care,cosmetics,51450.0,0.0,51450.0,Hair and makeup restock dbs,Sunday
+2025-04-13,Food & Drinks,restaurants,13909.0,0.0,13909.0,none,Sunday
+2025-04-13,Health & Personal Care,medicine,11155.0,0.0,11155.0,Lexapro,Sunday
+2025-04-13,Leisure,movies & TV,9.19,0.0,6861.0,Netflix,Sunday
+2025-04-14,Food & Drinks,groceries,56441.0,0.0,56441.0,none,Monday
+2025-04-14,Food & Drinks,restaurants,18739.0,0.0,18739.0,none,Monday
+2025-04-15,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-04-15,Transport,taxi,7591.0,0.0,7591.0,none,Tuesday
+2025-04-15,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-04-15,Transport,taxi,3930.0,0.0,3930.0,none,Tuesday
+2025-04-16,Education,books/library,6490.0,0.0,6490.0,Print vision board,Wednesday
+2025-04-16,Health & Personal Care,medical services,267510.0,0.0,267510.0,Banmedica,Wednesday
+2025-04-16,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign,Wednesday
+2025-04-16,Food & Drinks,restaurants,12419.0,0.0,12419.0,none,Wednesday
+2025-04-17,Transport,taxi,6797.0,0.0,6797.0,none,Thursday
+2025-04-17,Food & Drinks,restaurants,12730.0,0.0,12730.0,none,Thursday
+2025-04-18,Transport,taxi,3436.0,0.0,3436.0,none,Friday
+2025-04-18,Food & Drinks,restaurants,9550.0,0.0,9550.0,none,Friday
+2025-04-18,Leisure,sightseeing,8000.0,0.0,8000.0,Bird watching,Friday
+2025-04-18,Food & Drinks,restaurants,4200.0,0.0,4200.0,none,Friday
+2025-04-18,Health & Personal Care,gym/exercise,49.1,0.0,36248.0,ClassPass,Friday
+2025-04-19,Education,books/library,3200.0,0.0,3200.0,Medium,Saturday
+2025-04-20,Health & Personal Care,cosmetics,33990.0,0.0,33990.0,Perfume,Sunday
+2025-04-20,Food & Drinks,restaurants,14739.0,0.0,14739.0,none,Sunday
+2025-04-20,Food & Drinks,restaurants,9309.0,0.0,9309.0,none,Sunday
+2025-04-20,Food & Drinks,groceries,39278.0,0.0,39278.0,none,Sunday
+2025-04-20,Food & Drinks,coffee & tea,4959.0,0.0,4959.0,French press replacement,Sunday
+2025-04-21,Leisure,events,7000.0,0.0,7000.0,The First Round,Monday
+2025-04-21,Food & Drinks,coffee & tea,12900.0,0.0,12900.0,none,Monday
+2025-04-21,Education,none,790.0,0.0,790.0,iCloud,Monday
+2025-04-22,Home & Utilities,gastos comunes,178270.0,0.0,178270.0,none,Tuesday
+2025-04-23,Transport,taxi,5296.0,0.0,5296.0,none,Wednesday
+2025-04-23,Health & Personal Care,medical services,15707.0,0.0,15707.0,Ophthalmologist ,Wednesday
+2025-04-23,Food & Drinks,restaurants,9889.0,0.0,9889.0,none,Wednesday
+2025-04-24,Transport,travel card,4000.0,0.0,4000.0,none,Thursday
+2025-04-24,Food & Drinks,restaurants,7780.0,0.0,7780.0,none,Thursday
+2025-04-25,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-04-25,Education,AI,17.84,0.0,16680.0,Lookaway Mac ,Friday
+2025-04-25,Food & Drinks,restaurants,14000.0,0.0,14000.0,none,Friday
+2025-04-25,Health & Personal Care,hair,70000.0,0.0,70000.0,none,Friday
+2025-04-25,Food & Drinks,groceries,17000.0,0.0,17000.0,none,Friday
+2025-04-25,Leisure,books,24990.0,0.0,24990.0,none,Friday
+2025-04-26,Health & Personal Care,cosmetics,34384.0,0.0,34384.0,Natura skincare,Saturday
+2025-04-26,Food & Drinks,restaurants,9839.0,0.0,9839.0,none,Saturday
+2025-04-27,Food & Drinks,restaurants,11876.0,0.0,11876.0,none,Sunday
+2025-04-27,Food & Drinks,groceries,12082.0,0.0,12082.0,none,Sunday
+2025-04-28,Health & Personal Care,medical services,95500.0,0.0,95500.0,Contact lenses,Monday
+2025-04-28,Transport,travel card,4000.0,0.0,4000.0,none,Monday
+2025-04-29,Food & Drinks,restaurants,13909.0,0.0,13909.0,none,Tuesday
+2025-04-29,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-04-29,Food & Drinks,coffee & tea,1065.0,0.0,1065.0,none,Tuesday
+2025-05-01,Home & Utilities,laundry,12292.0,0.0,12292.0,Cat hair remover for laundry,Thursday
+2025-05-01,Food & Drinks,restaurants,16169.0,0.0,16169.0,none,Thursday
+2025-05-01,Food & Drinks,coffee & tea,9000.0,0.0,9000.0,none,Thursday
+2025-05-02,Health & Personal Care,gym/exercise,178000.0,0.0,178000.0,VFIT,Friday
+2025-05-02,Food & Drinks,restaurants,9532.0,0.0,9532.0,none,Friday
+2025-05-02,Food & Drinks,groceries,58815.0,0.0,58815.0,none,Friday
+2025-05-03,Home & Utilities,internet,26387.0,0.0,26387.0,none,Saturday
+2025-05-03,Home & Utilities,rent,887205.0,0.0,887205.0,none,Saturday
+2025-05-03,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Saturday
+2025-05-03,Food & Drinks,restaurants,89980.0,0.0,89980.0,none,Saturday
+2025-05-03,Food & Drinks,restaurants,8080.0,0.0,8080.0,none,Saturday
+2025-05-04,Food & Drinks,restaurants,9581.0,0.0,9581.0,none,Sunday
+2025-05-05,Education,none,72900.0,0.0,72900.0,Imprint annual,Monday
+2025-05-05,Food & Drinks,groceries,20990.0,0.0,20990.0,Almuerzos Listos,Monday
+2025-05-05,Food & Drinks,groceries,14981.0,0.0,14981.0,none,Monday
+2025-05-06,Education,AI,23.8,0.0,22356.0,ChatGPT,Tuesday
+2025-05-06,Health & Personal Care,cosmetics,34364.0,0.0,34364.0,3INA concealers,Tuesday
+2025-05-07,Transport,travel card,4000.0,0.0,4000.0,none,Wednesday
+2025-05-07,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-05-07,Clothing & Footwear,accessories,27230.0,0.0,27230.0,Satin stuff curly cosas,Wednesday
+2025-05-08,Transport,taxi,16092.0,0.0,16092.0,none,Thursday
+2025-05-08,Transport,taxi,10298.0,0.0,10298.0,none,Thursday
+2025-05-09,Transport,taxi,3598.0,0.0,3598.0,none,Friday
+2025-05-09,Transport,taxi,7696.0,0.0,7696.0,none,Friday
+2025-05-09,Food & Drinks,restaurants,38676.0,0.0,38676.0,none,Friday
+2025-05-10,Food & Drinks,restaurants,14629.0,0.0,14629.0,none,Saturday
+2025-05-10,Education,AI,600.0,0.0,560214.0,Outskill AI Fellowship,Saturday
+2025-05-11,Food & Drinks,restaurants,12172.0,0.0,12172.0,none,Sunday
+2025-05-11,Home & Utilities,utilities,15616.0,0.0,15616.0,Enel,Sunday
+2025-05-12,Transport,travel card,4000.0,0.0,4000.0,none,Monday
+2025-05-12,Food & Drinks,groceries,20990.0,0.0,20990.0,Almuerzos Listos,Monday
+2025-05-12,Education,none,117424.0,0.0,117424.0,Silent Book Club lawyer payment,Monday
+2025-05-13,Food & Drinks,coffee & tea,5100.0,0.0,5100.0,none,Tuesday
+2025-05-13,Health & Personal Care,medicine,11491.0,0.0,11491.0,Lexapro,Tuesday
+2025-05-13,Food & Drinks,restaurants,16620.0,0.0,16620.0,none,Tuesday
+2025-05-13,Health & Personal Care,medical services,267790.0,0.0,267790.0,Banmedica March,Tuesday
+2025-05-14,Education,books/library,39000.0,0.0,39000.0,Silent Book Club Accountant,Wednesday
+2025-05-14,Transport,travel card,4000.0,0.0,4000.0,none,Wednesday
+2025-05-14,Education,AI,2990.0,0.0,2990.0,Bear Pro ,Wednesday
+2025-05-14,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-05-14,Food & Drinks,restaurants,10000.0,0.0,10000.0,none,Wednesday
+2025-05-14,Home & Utilities,phone accessories,16990.0,0.0,16990.0,Phone screen protector,Wednesday
+2025-05-14,Home & Utilities,phone accessories,13381.0,0.0,13381.0,Peyu phone case,Wednesday
+2025-05-14,Education,books/library,14990.0,0.0,14990.0,Silent Book Club Firma Virtual,Wednesday
+2025-05-15,Education,AI,5.95,0.0,5587.0,ChatGPT API Key,Thursday
+2025-05-15,Food & Drinks,alcohol,15950.0,0.0,15950.0,none,Thursday
+2025-05-15,Food & Drinks,restaurants,68200.0,0.0,68200.0,none,Thursday
+2025-05-16,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign,Friday
+2025-05-16,Leisure,movies & TV,2490.0,0.0,2490.0,Apple TV rental Victoria & Abdul,Friday
+2025-05-16,Health & Personal Care,medical services,13566.0,0.0,13566.0,Dental,Friday
+2025-05-16,Food & Drinks,restaurants,7152.0,0.0,7152.0,none,Friday
+2025-05-16,Transport,taxi,7311.0,0.0,7311.0,none,Friday
+2025-05-17,Health & Personal Care,cosmetics,17980.0,0.0,17980.0,Cute bunny,Saturday
+2025-05-17,Food & Drinks,coffee & tea,16000.0,0.0,16000.0,none,Saturday
+2025-05-17,Food & Drinks,restaurants,19030.0,0.0,19030.0,none,Saturday
+2025-05-18,Clothing & Footwear,underwear,17000.0,0.0,17000.0,Nubody underwear,Sunday
+2025-05-18,Transport,taxi,6798.0,0.0,6798.0,none,Sunday
+2025-05-18,Food & Drinks,groceries,28918.0,0.0,28918.0,none,Sunday
+2025-05-18,Health & Personal Care,gym/exercise,21000.0,0.0,21000.0,Kitty yoga,Sunday
+2025-05-18,Transport,taxi,4157.0,0.0,4157.0,none,Sunday
+2025-05-18,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Sunday
+2025-05-18,Transport,travel card,4000.0,0.0,4000.0,none,Sunday
+2025-05-19,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Monday
+2025-05-19,Food & Drinks,groceries,20990.0,0.0,20990.0,none,Monday
+2025-05-19,Home & Utilities,gastos comunes,186717.0,0.0,186717.0,none,Monday
+2025-05-19,Home & Utilities,cat,49680.0,0.0,49680.0,Leyla food,Monday
+2025-05-19,Transport,taxi,8449.0,0.0,8449.0,none,Monday
+2025-05-19,Transport,taxi,3400.0,0.0,3400.0,none,Monday
+2025-05-20,Food & Drinks,alcohol,20000.0,0.0,20000.0,none,Tuesday
+2025-05-20,Transport,taxi,8465.0,0.0,8465.0,none,Tuesday
+2025-05-20,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-05-20,Food & Drinks,alcohol,35000.0,0.0,35000.0,none,Tuesday
+2025-05-21,Education,AI,790.0,0.0,790.0,iCloud,Wednesday
+2025-05-21,Transport,taxi,2075.0,0.0,2075.0,none,Wednesday
+2025-05-21,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,none,Wednesday
+2025-05-21,Food & Drinks,restaurants,11328.0,0.0,11328.0,none,Wednesday
+2025-05-22,Food & Drinks,coffee & tea,4730.0,0.0,4730.0,none,Thursday
+2025-05-22,Leisure,music,4.82,0.0,4545.0,Spotify,Thursday
+2025-05-23,Health & Personal Care,cosmetics,30000.0,0.0,30000.0,Limpieza facial,Friday
+2025-05-23,Transport,travel card,4000.0,0.0,4000.0,none,Friday
+2025-05-24,Food & Drinks,coffee & tea,11650.0,0.0,11650.0,none,Saturday
+2025-05-24,Food & Drinks,restaurants,12989.0,0.0,12989.0,none,Saturday
+2025-05-24,Health & Personal Care,manicure/pedicure,29150.0,0.0,29150.0,none,Saturday
+2025-05-25,Food & Drinks,groceries,21982.0,0.0,21982.0,none,Sunday
+2025-05-26,Transport,taxi,4767.0,0.0,4767.0,none,Monday
+2025-05-26,Food & Drinks,groceries,3990.0,0.0,3990.0,none,Monday
+2025-05-26,Transport,taxi,7683.0,0.0,7683.0,none,Monday
+2025-05-26,Food & Drinks,groceries,46094.0,0.0,46094.0,none,Monday
+2025-05-27,Health & Personal Care,medicine,9099.0,0.0,9099.0,Contact lens solution,Tuesday
+2025-05-27,Education,books/library,1200.0,0.0,1200.0,Emergency bag print,Tuesday
+2025-05-28,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-05-28,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Wednesday
+2025-05-28,Leisure,events,20700.0,0.0,20700.0,Club30,Wednesday
+2025-05-29,Food & Drinks,restaurants,7518.0,0.0,7518.0,none,Thursday
+2025-05-29,Education,AI,2100.0,0.0,1971753.0,Outskill,Thursday
+2025-05-30,Transport,taxi,7030.0,0.0,7030.0,none,Friday
+2025-05-30,Food & Drinks,restaurants,9928.0,0.0,9928.0,none,Friday
+2025-05-30,Transport,travel card,4000.0,0.0,4000.0,none,Friday
+2025-05-31,Food & Drinks,alcohol,30880.0,0.0,30880.0,none,Saturday
+2025-05-31,Clothing & Footwear,clothes,33000.0,0.0,33000.0,Closet Sale ,Saturday
+2025-05-31,Home & Utilities,home improvement,32380.0,0.0,32380.0,Mouvair air filter replacement,Saturday
+2025-05-31,Leisure,"art, events",30000.0,0.0,30000.0,Pincel y copas,Saturday
+2025-06-01,Home & Utilities,laundry,32000.0,0.0,32000.0,Mr Laundry for second hand clothes,Sunday
+2025-06-01,Home & Utilities,home improvement,9580.0,0.0,9580.0,The Pink Stuff cleaner,Sunday
+2025-06-01,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-06-01,Home & Utilities,home improvement,25880.0,0.0,25880.0,Cloth hanging rack,Sunday
+2025-06-01,Food & Drinks,groceries,61819.0,0.0,61819.0,none,Sunday
+2025-06-01,Food & Drinks,groceries,40548.0,0.0,40548.0,none,Sunday
+2025-06-02,Health & Personal Care,gym/exercise,158000.0,0.0,158000.0,VFIT gym membership,Monday
+2025-06-02,Home & Utilities,internet,26387.0,0.0,26387.0,none,Monday
+2025-06-02,Home & Utilities,rent,887205.0,0.0,887205.0,none,Monday
+2025-06-02,Food & Drinks,coffee & tea,12600.0,0.0,12600.0,Circular coffee beans,Monday
+2025-06-03,Home & Utilities,home improvement,35990.0,0.0,35990.0,New mop,Tuesday
+2025-06-03,Food & Drinks,coffee & tea,15000.0,0.0,15000.0,none,Tuesday
+2025-06-03,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Tuesday
+2025-06-03,Home & Utilities,home improvement,26140.0,0.0,26140.0,Freemet cleaning supplies restock,Tuesday
+2025-06-04,Leisure,books,2.17,0.0,2036.0,Project Hail Mary ebook,Wednesday
+2025-06-04,Food & Drinks,restaurants,11453.0,0.0,11453.0,none,Wednesday
+2025-06-05,Food & Drinks,restaurants,20130.0,0.0,20130.0,none,Thursday
+2025-06-06,Food & Drinks,coffee & tea,3080.0,0.0,3080.0,none,Friday
+2025-06-06,Education,AI,9900.0,0.0,9900.0,Structured Pro Annual,Friday
+2025-06-07,Transport,taxi,8936.0,0.0,8936.0,none,Saturday
+2025-06-07,Food & Drinks,restaurants,40040.0,0.0,40040.0,none,Saturday
+2025-06-07,Transport,taxi,6638.0,0.0,6638.0,none,Saturday
+2025-06-08,Food & Drinks,groceries,18724.0,0.0,18724.0,none,Sunday
+2025-06-08,Food & Drinks,restaurants,11169.0,0.0,11169.0,none,Sunday
+2025-06-10,Food & Drinks,restaurants,7300.0,0.0,7300.0,none,Tuesday
+2025-06-10,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-06-11,Transport,travel card,4000.0,0.0,4000.0,none,Wednesday
+2025-06-11,Health & Personal Care,cosmetics,39043.0,0.0,39043.0,Natura creams ,Wednesday
+2025-06-11,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-06-12,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Thursday
+2025-06-12,Leisure,movies & TV,10.17,0.0,7398.0,none,Thursday
+2025-06-13,Food & Drinks,groceries,32189.0,0.0,32189.0,none,Friday
+2025-06-13,Transport,taxi,3450.0,0.0,3450.0,none,Friday
+2025-06-13,Education,books/library,78440.0,0.0,78440.0,Silent Book Club lawyer payment,Friday
+2025-06-13,Food & Drinks,groceries,17000.0,0.0,17000.0,none,Friday
+2025-06-13,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign payment,Friday
+2025-06-14,Leisure,events,30000.0,0.0,30000.0,Pincel y Copas,Saturday
+2025-06-14,Education,AI,2990.0,0.0,2990.0,Bear Pro,Saturday
+2025-06-14,Home & Utilities,utilities,14767.0,0.0,14767.0,Enel ,Saturday
+2025-06-15,Food & Drinks,restaurants,12487.0,0.0,12487.0,none,Sunday
+2025-06-16,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-06-16,Food & Drinks,restaurants,15589.0,0.0,15589.0,none,Monday
+2025-06-17,Leisure,events,22600.0,0.0,22600.0,Comedy night,Tuesday
+2025-06-17,Food & Drinks,coffee & tea,2290.0,0.0,2290.0,none,Tuesday
+2025-06-17,Food & Drinks,groceries,30772.0,0.0,30772.0,none,Tuesday
+2025-06-17,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Tuesday
+2025-06-17,Food & Drinks,restaurants,37051.0,0.0,37051.0,none,Tuesday
+2025-06-17,Transport,taxi,5595.0,0.0,5595.0,none,Tuesday
+2025-06-18,Food & Drinks,restaurants,7537.0,0.0,7537.0,none,Wednesday
+2025-06-18,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Wednesday
+2025-06-18,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-06-19,Transport,travel card,4000.0,0.0,4000.0,none,Thursday
+2025-06-19,Food & Drinks,restaurants,9390.0,0.0,9390.0,none,Thursday
+2025-06-19,Food & Drinks,restaurants,13295.0,0.0,13295.0,none,Thursday
+2025-06-19,Home & Utilities,gastos comunes,149251.0,0.0,149251.0,none,Thursday
+2025-06-20,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-06-20,Food & Drinks,alcohol,24750.0,0.0,24750.0,none,Friday
+2025-06-20,Food & Drinks,restaurants,9467.0,0.0,9467.0,none,Friday
+2025-06-21,Transport,taxi,3396.0,0.0,3396.0,none,Saturday
+2025-06-21,Education,AI,790.0,0.0,790.0,iCloud,Saturday
+2025-06-22,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,none,Sunday
+2025-06-22,Food & Drinks,restaurants,13105.0,0.0,13105.0,none,Sunday
+2025-06-22,Transport,taxi,6428.0,0.0,6428.0,none,Sunday
+2025-06-22,Leisure,music,4.84,0.0,4555.0,none,Sunday
+2025-06-23,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Monday
+2025-06-24,Transport,taxi,4395.0,0.0,4395.0,none,Tuesday
+2025-06-24,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-06-24,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Tuesday
+2025-06-25,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-06-25,Food & Drinks,restaurants,12256.0,0.0,12256.0,none,Wednesday
+2025-06-25,Health & Personal Care,hair,31000.0,0.0,31000.0,Hair Brushing,Wednesday
+2025-06-26,Food & Drinks,restaurants,9390.0,0.0,9390.0,none,Thursday
+2025-06-26,Food & Drinks,groceries,23106.0,0.0,23106.0,none,Thursday
+2025-06-26,Food & Drinks,coffee & tea,4500.0,0.0,4500.0,none,Thursday
+2025-06-27,Food & Drinks,coffee & tea,12100.0,0.0,12100.0,none,Friday
+2025-06-28,Food & Drinks,restaurants,14329.0,0.0,14329.0,none,Saturday
+2025-06-29,Food & Drinks,coffee & tea,13860.0,0.0,13860.0,none,Sunday
+2025-06-29,Food & Drinks,restaurants,22219.0,0.0,22219.0,none,Sunday
+2025-06-29,Food & Drinks,coffee & tea,13420.0,0.0,13420.0,none,Sunday
+2025-06-30,Food & Drinks,restaurants,16573.0,0.0,16573.0,none,Monday
+2025-07-01,Food & Drinks,coffee & tea,43200.0,0.0,43200.0,none,Tuesday
+2025-07-02,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-07-02,Health & Personal Care,gym/exercise,158000.0,0.0,158000.0,VFIT gym,Wednesday
+2025-07-02,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Wednesday
+2025-07-03,Transport,taxi,3399.0,0.0,3399.0,none,Thursday
+2025-07-03,Food & Drinks,restaurants,9390.0,0.0,9390.0,none,Thursday
+2025-07-03,Food & Drinks,restaurants,11719.0,0.0,11719.0,none,Thursday
+2025-07-03,Transport,travel card,10000.0,0.0,10000.0,none,Thursday
+2025-07-04,Food & Drinks,restaurants,17710.0,0.0,17710.0,none,Friday
+2025-07-04,Leisure,books,2.17,0.0,2018.0,Kindle ebook,Friday
+2025-07-04,Health & Personal Care,manicure/pedicure,32340.0,0.0,32340.0,none,Friday
+2025-07-04,Transport,taxi,7381.0,0.0,7381.0,none,Friday
+2025-07-04,Home & Utilities,utilities,16477.0,0.0,16477.0,none,Friday
+2025-07-04,Home & Utilities,rent,887205.0,0.0,887205.0,none,Friday
+2025-07-05,Food & Drinks,restaurants,14329.0,0.0,14329.0,none,Saturday
+2025-07-05,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Saturday
+2025-07-06,Food & Drinks,restaurants,22544.0,0.0,22544.0,none,Sunday
+2025-07-06,Health & Personal Care,medicine,11491.0,0.0,11491.0,Lexapro,Sunday
+2025-07-06,Education,AI,5.0,0.0,4649.0,Medium,Sunday
+2025-07-06,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-07-07,Food & Drinks,restaurants,9467.0,0.0,9467.0,none,Monday
+2025-07-08,Food & Drinks,restaurants,6900.0,0.0,6900.0,none,Tuesday
+2025-07-09,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Wednesday
+2025-07-09,Leisure,events,8000.0,0.0,8000.0,Pool de Lelas,Wednesday
+2025-07-09,Education,AI,23.8,0.0,22597.0,ChatGPT,Wednesday
+2025-07-09,Food & Drinks,restaurants,32505.0,0.0,32505.0,none,Wednesday
+2025-07-10,Transport,taxi,6398.0,0.0,6398.0,none,Thursday
+2025-07-10,Transport,travel,14700.0,0.0,14700.0,Turbus to Viña,Thursday
+2025-07-10,Home & Utilities,internet,26387.0,0.0,26387.0,none,Thursday
+2025-07-10,Food & Drinks,restaurants,15164.0,0.0,15164.0,none,Thursday
+2025-07-11,Education,AI,2990.0,0.0,2990.0,Bear Pro,Friday
+2025-07-11,Transport,taxi,12054.0,0.0,12054.0,none,Friday
+2025-07-11,Food & Drinks,restaurants,29100.0,0.0,29100.0,Good Nick ,Friday
+2025-07-11,Transport,travel,7050.0,0.0,7050.0,none,Friday
+2025-07-12,Food & Drinks,groceries,63725.0,0.0,63725.0,none,Saturday
+2025-07-13,Health & Personal Care,medical services,163942.0,0.0,163942.0,Contact lenses,Sunday
+2025-07-13,Food & Drinks,restaurants,14329.0,0.0,14329.0,none,Sunday
+2025-07-13,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-07-13,Home & Utilities,cat,62568.0,0.0,62568.0,Leyla litter,Sunday
+2025-07-14,Home & Utilities,gastos comunes,224711.0,0.0,224711.0,none,Monday
+2025-07-15,Food & Drinks,restaurants,11709.0,0.0,11709.0,none,Tuesday
+2025-07-15,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign,Tuesday
+2025-07-15,Transport,taxi,2514.0,0.0,2514.0,none,Tuesday
+2025-07-15,Food & Drinks,coffee & tea,5030.0,0.0,5030.0,none,Tuesday
+2025-07-17,Food & Drinks,restaurants,20269.0,0.0,20269.0,none,Thursday
+2025-07-17,Food & Drinks,coffee & tea,13900.0,0.0,13900.0,none,Thursday
+2025-07-17,Transport,travel card,10000.0,0.0,10000.0,none,Thursday
+2025-07-17,Transport,taxi,7493.0,0.0,7493.0,none,Thursday
+2025-07-17,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Thursday
+2025-07-18,Transport,taxi,5971.0,0.0,5971.0,none,Friday
+2025-07-18,Transport,taxi,3690.0,0.0,3690.0,none,Friday
+2025-07-18,Food & Drinks,restaurants,49170.0,0.0,49170.0,none,Friday
+2025-07-18,Food & Drinks,alcohol,12199.0,0.0,12199.0,none,Friday
+2025-07-19,Transport,taxi,5395.0,0.0,5395.0,none,Saturday
+2025-07-19,Food & Drinks,restaurants,14329.0,0.0,14329.0,none,Saturday
+2025-07-20,Food & Drinks,alcohol,4000.0,0.0,4000.0,none,Sunday
+2025-07-20,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Sunday
+2025-07-20,Food & Drinks,coffee & tea,7800.0,0.0,7800.0,none,Sunday
+2025-07-20,Transport,taxi,6096.0,0.0,6096.0,none,Sunday
+2025-07-21,Education,AI,990.0,0.0,990.0,iCloud,Monday
+2025-07-21,Food & Drinks,groceries,32405.0,0.0,32405.0,none,Monday
+2025-07-21,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-07-22,Education,books/library,11350.0,0.0,11350.0,Stationery,Tuesday
+2025-07-23,Transport,taxi,5443.0,0.0,5443.0,none,Wednesday
+2025-07-23,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-07-23,Health & Personal Care,medical services,2048.0,0.0,2048.0,Gyno tests,Wednesday
+2025-07-23,Health & Personal Care,medical services,6893.0,0.0,6893.0,Gyno,Wednesday
+2025-07-23,Transport,taxi,6457.0,0.0,6457.0,none,Wednesday
+2025-07-23,Food & Drinks,groceries,9180.0,0.0,9180.0,Vitamin D supplements,Wednesday
+2025-07-25,Leisure,games,3635.0,0.0,3635.0,none,Friday
+2025-07-25,Leisure,events,3000.0,0.0,3000.0,none,Friday
+2025-07-26,Food & Drinks,coffee & tea,4180.0,0.0,4180.0,none,Saturday
+2025-07-26,Food & Drinks,restaurants,45540.0,0.0,45540.0,none,Saturday
+2025-07-27,Food & Drinks,restaurants,14584.0,0.0,14584.0,none,Sunday
+2025-07-27,Food & Drinks,groceries,37675.0,0.0,37675.0,none,Sunday
+2025-07-28,Food & Drinks,groceries,12990.0,0.0,12990.0,none,Monday
+2025-07-28,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-07-29,Food & Drinks,restaurants,28105.0,0.0,28105.0,none,Tuesday
+2025-07-29,Food & Drinks,coffee & tea,10560.0,0.0,10560.0,none,Tuesday
+2025-07-30,Health & Personal Care,gym/exercise,24990.0,0.0,24990.0,Classpass ,Wednesday
+2025-07-30,Food & Drinks,restaurants,7817.0,0.0,7817.0,none,Wednesday
+2025-07-31,Transport,taxi,11447.0,0.0,11447.0,none,Thursday
+2025-07-31,Food & Drinks,alcohol,4000.0,0.0,4000.0,none,Thursday
+2025-07-31,Food & Drinks,restaurants,10539.0,0.0,10539.0,none,Thursday
+2025-07-31,Transport,taxi,5791.0,0.0,5791.0,none,Thursday
+2025-08-01,Food & Drinks,groceries,56889.0,0.0,56889.0,none,Friday
+2025-08-01,Food & Drinks,restaurants,12189.0,0.0,12189.0,Uber Eats,Friday
+2025-08-01,Food & Drinks,restaurants,7600.0,0.0,7600.0,Cancelled order,Friday
+2025-08-01,Health & Personal Care,gym/exercise,100000.0,0.0,100000.0,VFIT gym,Friday
+2025-08-02,Food & Drinks,groceries,41375.0,0.0,41375.0,none,Saturday
+2025-08-02,Education,none,28990.0,0.0,28990.0,Annual planner jefa from Lluna Papelería,Saturday
+2025-08-02,Food & Drinks,coffee & tea,4829.0,0.0,4829.0,Coffee,Saturday
+2025-08-03,Health & Personal Care,medicine,11491.0,0.0,11491.0,Lexapro,Sunday
+2025-08-04,Transport,travel card,10000.0,0.0,10000.0,none,Monday
+2025-08-04,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,Brekkie coffee,Monday
+2025-08-04,Home & Utilities,rent,904507.0,0.0,904507.0,none,Monday
+2025-08-04,Health & Personal Care,cosmetics,31970.0,0.0,31970.0,Skincare restock,Monday
+2025-08-04,Food & Drinks,restaurants,10781.0,0.0,10781.0,Uber Eats,Monday
+2025-08-05,Home & Utilities,internet,26967.0,0.0,26967.0,none,Tuesday
+2025-08-05,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,Starbucks,Tuesday
+2025-08-05,Food & Drinks,restaurants,7817.0,0.0,7817.0,Uber Eats,Tuesday
+2025-08-06,Health & Personal Care,gym/exercise,18000.0,0.0,18000.0,Pilates class,Wednesday
+2025-08-06,Food & Drinks,restaurants,12189.0,0.0,12189.0,none,Wednesday
+2025-08-07,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,Café Magnolia,Thursday
+2025-08-07,Home & Utilities,phone accessories,15980.0,0.0,15980.0,iPad case replacement,Thursday
+2025-08-07,Home & Utilities,utilities,20884.0,0.0,20884.0,none,Thursday
+2025-08-08,Food & Drinks,coffee & tea,5390.0,0.0,5390.0,Elephant Coffee Flat White,Friday
+2025-08-08,Health & Personal Care,cosmetics,8929.0,0.0,8929.0,Veet wax strips,Friday
+2025-08-08,Food & Drinks,restaurants,17073.0,0.0,17073.0,Uber Eats,Friday
+2025-08-08,Food & Drinks,restaurants,7255.0,0.0,7255.0,Uber Eats,Friday
+2025-08-09,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Saturday
+2025-08-09,Transport,taxi,7960.0,0.0,7960.0,none,Saturday
+2025-08-09,Food & Drinks,coffee & tea,14360.0,0.0,14360.0,none,Saturday
+2025-08-09,Education,AI,5.0,0.0,4831.0,Medium,Saturday
+2025-08-09,Education,AI,23.8,0.0,22996.0,ChatGPT,Saturday
+2025-08-10,Clothing & Footwear,shoes,22000.0,0.0,22000.0,Second hand shoes ,Sunday
+2025-08-10,Food & Drinks,groceries,29901.0,0.0,29901.0,none,Sunday
+2025-08-10,Food & Drinks,coffee & tea,6160.0,0.0,6160.0,none,Sunday
+2025-08-11,Clothing & Footwear,clothes,12500.0,0.0,12500.0,Clothes alteration,Monday
+2025-08-11,Clothing & Footwear,clothes,10980.0,0.0,10980.0,Second hand sweater from nostalgic - from my buying list,Monday
+2025-08-11,Clothing & Footwear,clothes,49900.0,0.0,49900.0,Maroa - new corduroy pants,Monday
+2025-08-12,Education,AI,2990.0,0.0,2990.0,Bear Pro,Tuesday
+2025-08-13,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-08-13,Home & Utilities,gastos comunes,225922.0,0.0,225922.0,none,Wednesday
+2025-08-13,Food & Drinks,restaurants,11960.0,0.0,11960.0,none,Wednesday
+2025-08-14,Transport,taxi,6391.0,0.0,6391.0,none,Thursday
+2025-08-14,Transport,taxi,7186.0,0.0,7186.0,none,Thursday
+2025-08-15,Transport,taxi,6853.0,0.0,6853.0,none,Friday
+2025-08-15,Health & Personal Care,manicure/pedicure,29150.0,0.0,29150.0,none,Friday
+2025-08-15,Food & Drinks,coffee & tea,5280.0,0.0,5280.0,none,Friday
+2025-08-15,Food & Drinks,restaurants,17320.0,0.0,17320.0,none,Friday
+2025-08-16,Food & Drinks,restaurants,8267.0,0.0,8267.0,none,Saturday
+2025-08-16,Food & Drinks,restaurants,37840.0,0.0,37840.0,none,Saturday
+2025-08-16,Transport,taxi,3593.0,0.0,3593.0,none,Saturday
+2025-08-16,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Saturday
+2025-08-16,Health & Personal Care,cosmetics,48970.0,0.0,48970.0,Makeup restock and new lipstick,Saturday
+2025-08-17,Food & Drinks,groceries,27041.0,0.0,27041.0,none,Sunday
+2025-08-17,Transport,scooter,850.0,0.0,850.0,none,Sunday
+2025-08-17,Transport,scooter,3125.0,0.0,3125.0,Lime scooter,Sunday
+2025-08-17,Transport,scooter,3125.0,0.0,3125.0,none,Sunday
+2025-08-17,Transport,scooter,1025.0,0.0,1025.0,none,Sunday
+2025-08-18,Transport,taxi,7398.0,0.0,7398.0,none,Monday
+2025-08-19,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-08-19,Food & Drinks,restaurants,10092.0,0.0,10092.0,none,Tuesday
+2025-08-19,Transport,taxi,6123.0,0.0,6123.0,none,Tuesday
+2025-08-20,Food & Drinks,groceries,27138.0,0.0,27138.0,none,Wednesday
+2025-08-20,Food & Drinks,restaurants,18340.0,0.0,18340.0,none,Wednesday
+2025-08-20,Clothing & Footwear,accessories,22987.0,0.0,22987.0,Laptop structured tote,Wednesday
+2025-08-21,Food & Drinks,groceries,26990.0,0.0,26990.0,none,Thursday
+2025-08-21,Education,books/library,0.99,0.0,961.0,Audible one month subscription on discount. Five audiobooks!!,Thursday
+2025-08-21,Food & Drinks,coffee & tea,4500.0,0.0,4500.0,Batard,Thursday
+2025-08-21,Education,AI,990.0,0.0,990.0,iCloud ,Thursday
+2025-08-22,Food & Drinks,restaurants,12460.0,0.0,12460.0,none,Friday
+2025-08-23,Food & Drinks,restaurants,9889.0,0.0,9889.0,none,Saturday
+2025-08-23,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Saturday
+2025-08-24,Health & Personal Care,cosmetics,14790.0,0.0,14790.0,Azelaic acid ,Sunday
+2025-08-24,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Sunday
+2025-08-25,Health & Personal Care,medical services,7050.0,0.0,7050.0,Doctor consult - after reimbursement ,Monday
+2025-08-25,Food & Drinks,restaurants,7357.0,0.0,7357.0,none,Monday
+2025-08-25,Health & Personal Care,medicine,6063.0,0.0,6063.0,none,Monday
+2025-08-25,Health & Personal Care,medicine,21279.0,0.0,21279.0,none,Monday
+2025-08-26,Food & Drinks,restaurants,10389.0,0.0,10389.0,none,Tuesday
+2025-08-26,Food & Drinks,coffee & tea,3615.0,0.0,3615.0,Starbucks,Tuesday
+2025-08-27,Transport,taxi,7091.0,0.0,7091.0,none,Wednesday
+2025-08-27,Leisure,apps,9980.0,0.0,9980.0,Dating app,Wednesday
+2025-08-27,Food & Drinks,groceries,35765.0,0.0,35765.0,none,Wednesday
+2025-08-28,Food & Drinks,coffee & tea,4340.0,0.0,4340.0,none,Thursday
+2025-08-28,Transport,travel card,4000.0,0.0,4000.0,none,Thursday
+2025-08-28,Food & Drinks,restaurants,13392.0,0.0,13392.0,Office lunch,Thursday
+2025-08-28,Transport,taxi,7197.0,0.0,7197.0,none,Thursday
+2025-08-29,Food & Drinks,coffee & tea,15000.0,0.0,15000.0,none,Friday
+2025-08-29,Transport,taxi,7914.0,0.0,7914.0,none,Friday
+2025-08-29,Food & Drinks,coffee & tea,4340.0,0.0,4340.0,none,Friday
+2025-08-29,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Friday
+2025-08-29,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign payment installments,Friday
+2025-08-30,Food & Drinks,restaurants,12141.0,0.0,12141.0,none,Saturday
+2025-08-30,Leisure,movies & TV,9.91,0.0,7460.0,Netflix,Saturday
+2025-08-30,Health & Personal Care,medicine,11491.0,0.0,11491.0,Lexapro,Saturday
+2025-08-31,Food & Drinks,coffee & tea,9680.0,0.0,9680.0,none,Sunday
+2025-08-31,Food & Drinks,restaurants,15774.0,0.0,15774.0,none,Sunday
+2025-09-01,Food & Drinks,restaurants,8245.0,0.0,8245.0,none,Monday
+2025-09-01,Home & Utilities,home improvement,17980.0,0.0,17980.0,Replace bathroom mat,Monday
+2025-09-01,Health & Personal Care,gym/exercise,158000.0,0.0,158000.0,VFIT gym,Monday
+2025-09-01,Home & Utilities,rent,904507.0,0.0,904507.0,none,Monday
+2025-09-02,Food & Drinks,coffee & tea,5000.0,0.0,5000.0,none,Tuesday
+2025-09-02,Health & Personal Care,medicine,18490.0,0.0,18490.0,Contact lens solution and floss ,Tuesday
+2025-09-02,Food & Drinks,coffee & tea,4340.0,0.0,4340.0,none,Tuesday
+2025-09-02,Transport,taxi,5718.0,0.0,5718.0,none,Tuesday
+2025-09-02,Transport,taxi,6005.0,0.0,6005.0,none,Tuesday
+2025-09-03,Transport,taxi,4567.0,0.0,4567.0,none,Wednesday
+2025-09-03,Transport,travel card,4000.0,0.0,4000.0,none,Wednesday
+2025-09-03,Food & Drinks,groceries,22368.0,0.0,22368.0,none,Wednesday
+2025-09-04,Food & Drinks,coffee & tea,4363.0,0.0,4363.0,none,Thursday
+2025-09-04,Food & Drinks,coffee & tea,2840.0,0.0,2840.0,none,Thursday
+2025-09-04,Food & Drinks,restaurants,10989.0,0.0,10989.0,none,Thursday
+2025-09-05,Clothing & Footwear,accessories,27600.0,0.0,27600.0,Ring and ear cuff,Friday
+2025-09-05,Food & Drinks,restaurants,7037.0,0.0,7037.0,none,Friday
+2025-09-05,Food & Drinks,alcohol,54439.0,0.0,54439.0,none,Friday
+2025-09-05,Clothing & Footwear,clothes,12500.0,0.0,12500.0,Tailoring clothes alteration,Friday
+2025-09-05,Health & Personal Care,massage,25200.0,0.0,25200.0,Foot massage,Friday
+2025-09-06,Transport,taxi,5901.0,0.0,5901.0,none,Saturday
+2025-09-06,Food & Drinks,restaurants,7490.0,0.0,7490.0,none,Saturday
+2025-09-06,Leisure,events,6720.0,0.0,6720.0,Luna en lesbos,Saturday
+2025-09-06,Food & Drinks,alcohol,36300.0,0.0,36300.0,Luna en Lesbos ,Saturday
+2025-09-06,Education,AI,5.0,0.0,4824.0,Medium,Saturday
+2025-09-06,Education,AI,23.8,0.0,22961.0,ChatGPT,Saturday
+2025-09-06,Transport,taxi,4500.0,0.0,4500.0,none,Saturday
+2025-09-07,Food & Drinks,coffee & tea,5830.0,0.0,5830.0,none,Sunday
+2025-09-07,Home & Utilities,utilities,18290.0,0.0,18290.0,none,Sunday
+2025-09-07,Home & Utilities,internet,26967.0,0.0,26967.0,none,Sunday
+2025-09-07,Food & Drinks,restaurants,12251.0,0.0,12251.0,none,Sunday
+2025-09-08,Food & Drinks,groceries,56907.0,0.0,56907.0,none,Monday
+2025-09-08,Food & Drinks,restaurants,17660.0,0.0,17660.0,none,Monday
+2025-09-08,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,none,Monday
+2025-09-09,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Tuesday
+2025-09-09,Food & Drinks,restaurants,14980.0,0.0,14980.0,none,Tuesday
+2025-09-09,Transport,taxi,4593.0,0.0,4593.0,none,Tuesday
+2025-09-09,Home & Utilities,gastos comunes,221577.0,0.0,221577.0,none,Tuesday
+2025-09-09,Food & Drinks,restaurants,7127.0,0.0,7127.0,none,Tuesday
+2025-09-09,Food & Drinks,coffee & tea,4340.0,0.0,4340.0,none,Tuesday
+2025-09-10,Food & Drinks,restaurants,9250.0,0.0,9250.0,none,Wednesday
+2025-09-11,Food & Drinks,coffee & tea,5709.0,0.0,5709.0,none,Thursday
+2025-09-11,Transport,taxi,5315.0,0.0,5315.0,none,Thursday
+2025-09-12,Food & Drinks,groceries,1995.0,0.0,1995.0,Uber One,Friday
+2025-09-12,Transport,travel,30.0,0.0,28646.0,Costa Rica visa processing fee,Friday
+2025-09-12,Transport,taxi,4930.0,0.0,4930.0,none,Friday
+2025-09-13,Food & Drinks,restaurants,7657.0,0.0,7657.0,none,Saturday
+2025-09-13,Transport,travel card,9000.0,0.0,9000.0,none,Saturday
+2025-09-13,Food & Drinks,coffee & tea,7777.0,0.0,7777.0,none,Saturday
+2025-09-13,Food & Drinks,restaurants,9279.0,0.0,9279.0,none,Saturday
+2025-09-14,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Sunday
+2025-09-14,Food & Drinks,restaurants,30178.0,0.0,30178.0,none,Sunday
+2025-09-14,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-09-15,Education,AI,2990.0,0.0,2990.0,Bear pro ,Monday
+2025-09-15,Food & Drinks,groceries,19106.0,0.0,19106.0,none,Monday
+2025-09-16,Food & Drinks,coffee & tea,4810.0,0.0,4810.0,none,Tuesday
+2025-09-16,Health & Personal Care,medical services,2356.0,0.0,2356.0,ENT consult,Tuesday
+2025-09-16,Transport,taxi,6296.0,0.0,6296.0,none,Tuesday
+2025-09-17,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign,Wednesday
+2025-09-17,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Wednesday
+2025-09-17,Food & Drinks,restaurants,12469.0,0.0,12469.0,none,Wednesday
+2025-09-17,Leisure,events,8000.0,0.0,8000.0,Club de Lelas fonda,Wednesday
+2025-09-19,Food & Drinks,restaurants,29828.0,0.0,29828.0,none,Friday
+2025-09-19,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-09-19,Leisure,games,8270.0,0.0,8270.0,Steam games on discount,Friday
+2025-09-20,Food & Drinks,restaurants,13500.0,0.0,13500.0,none,Saturday
+2025-09-20,Clothing & Footwear,clothes,74850.0,0.0,74850.0,Maroa clothes on sale,Saturday
+2025-09-20,Health & Personal Care,manicure/pedicure,26500.0,0.0,26500.0,none,Saturday
+2025-09-21,Food & Drinks,restaurants,7657.0,0.0,7657.0,none,Sunday
+2025-09-21,Food & Drinks,restaurants,15198.0,0.0,15198.0,none,Sunday
+2025-09-21,Education,AI,990.0,0.0,990.0,iCloud,Sunday
+2025-09-21,Food & Drinks,coffee & tea,4500.0,0.0,4500.0,none,Sunday
+2025-09-21,Food & Drinks,coffee & tea,5280.0,0.0,5280.0,none,Sunday
+2025-09-22,Health & Personal Care,medical services,2048.0,0.0,2048.0,Gynaecology ,Monday
+2025-09-22,Transport,travel card,4000.0,0.0,4000.0,none,Monday
+2025-09-22,Food & Drinks,restaurants,17660.0,0.0,17660.0,none,Monday
+2025-09-23,Transport,taxi,10409.0,0.0,10409.0,none,Tuesday
+2025-09-23,Transport,taxi,3400.0,0.0,3400.0,none,Tuesday
+2025-09-23,Food & Drinks,coffee & tea,5000.0,0.0,5000.0,none,Tuesday
+2025-09-23,Food & Drinks,groceries,6500.0,0.0,6500.0,Office food,Tuesday
+2025-09-23,Food & Drinks,coffee & tea,3280.0,0.0,3280.0,none,Tuesday
+2025-09-24,Food & Drinks,groceries,3500.0,0.0,3500.0,none,Wednesday
+2025-09-24,Food & Drinks,groceries,5557.0,0.0,5557.0,none,Wednesday
+2025-09-24,Food & Drinks,restaurants,9449.0,0.0,9449.0,Alma vegan,Wednesday
+2025-09-25,Food & Drinks,restaurants,7715.0,0.0,7715.0,none,Thursday
+2025-09-26,Food & Drinks,restaurants,13310.0,0.0,13310.0,none,Friday
+2025-09-26,Leisure,events,45200.0,0.0,45200.0,Cake for silent book club anniversary,Friday
+2025-09-26,Food & Drinks,restaurants,12670.0,0.0,12670.0,none,Friday
+2025-09-27,Transport,travel card,4000.0,0.0,4000.0,none,Saturday
+2025-09-27,Clothing & Footwear,shoes,18560.0,0.0,18560.0,Home slippers -replacement,Saturday
+2025-09-27,Food & Drinks,coffee & tea,4500.0,0.0,4500.0,none,Saturday
+2025-09-27,Leisure,events,13000.0,0.0,13000.0,VFIT fonda event + 500 park entry fee,Saturday
+2025-09-27,Transport,taxi,4841.0,0.0,4841.0,none,Saturday
+2025-09-27,Health & Personal Care,cosmetics,16235.0,0.0,16235.0,Sunscreen for the summer,Saturday
+2025-09-28,Food & Drinks,groceries,33507.0,0.0,33507.0,none,Sunday
+2025-09-28,Food & Drinks,coffee & tea,5500.0,0.0,5500.0,none,Sunday
+2025-09-28,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-09-28,Leisure,books,13000.0,0.0,13000.0,Bought my friends book Rutas Saficas to support her. It’s a red light purchase!! ,Sunday
+2025-09-28,Transport,taxi,4094.0,0.0,4094.0,none,Sunday
+2025-09-28,Food & Drinks,restaurants,15297.0,0.0,15297.0,none,Sunday
+2025-09-29,Food & Drinks,restaurants,10190.0,0.0,10190.0,none,Monday
+2025-09-30,Food & Drinks,restaurants,17660.0,0.0,17660.0,none,Tuesday
+2025-09-30,Health & Personal Care,medical services,1822.0,0.0,1822.0,Shoulder traumatólogo,Tuesday
+2025-09-30,Health & Personal Care,medical services,4136.0,0.0,4136.0,X-ray and ultrasound for shoulder,Tuesday
+2025-09-30,Health & Personal Care,medical services,69040.0,0.0,69040.0,To reimburse,Tuesday
+2025-10-01,Health & Personal Care,gym/exercise,158000.0,0.0,158000.0,VFIT gym,Wednesday
+2025-10-01,Transport,travel card,4000.0,0.0,4000.0,none,Wednesday
+2025-10-01,Food & Drinks,coffee & tea,4950.0,0.0,4950.0,none,Wednesday
+2025-10-02,Home & Utilities,rent,904507.0,0.0,904507.0,none,Thursday
+2025-10-02,Transport,taxi,4992.0,0.0,4992.0,none,Thursday
+2025-10-02,Health & Personal Care,medical services,39463.0,0.0,39463.0,Implanon - 80% reimbursed!,Thursday
+2025-10-02,Food & Drinks,restaurants,19580.0,0.0,19580.0,none,Thursday
+2025-10-02,Transport,taxi,2260.0,0.0,2260.0,none,Thursday
+2025-10-02,Health & Personal Care,medical services,4675.0,0.0,4675.0,Insertion Implanon,Thursday
+2025-10-02,Transport,taxi,5310.0,0.0,5310.0,none,Thursday
+2025-10-02,Food & Drinks,coffee & tea,5000.0,0.0,5000.0,none,Thursday
+2025-10-03,Transport,taxi,7975.0,0.0,7975.0,none,Friday
+2025-10-03,Food & Drinks,groceries,59448.0,0.0,59448.0,none,Friday
+2025-10-03,Food & Drinks,restaurants,9889.0,0.0,9889.0,none,Friday
+2025-10-03,Food & Drinks,coffee & tea,4500.0,0.0,4500.0,none,Friday
+2025-10-03,Food & Drinks,restaurants,13959.0,0.0,13959.0,none,Friday
+2025-10-03,Food & Drinks,groceries,1990.0,0.0,1990.0,none,Friday
+2025-10-03,Health & Personal Care,medical services,2356.0,0.0,2356.0,Travel doctor ,Friday
+2025-10-03,Home & Utilities,utilities,17728.0,0.0,17728.0,none,Friday
+2025-10-03,Food & Drinks,coffee & tea,4200.0,0.0,4200.0,none,Friday
+2025-10-04,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Saturday
+2025-10-04,Health & Personal Care,cosmetics,34990.0,0.0,34990.0,Perfume refill Natura,Saturday
+2025-10-04,Clothing & Footwear,underwear,41980.0,0.0,41980.0,Bloody green menstrual underwear,Saturday
+2025-10-04,Food & Drinks,restaurants,9349.0,0.0,9349.0,none,Saturday
+2025-10-05,Transport,taxi,6392.0,0.0,6392.0,none,Sunday
+2025-10-05,Food & Drinks,restaurants,23058.0,0.0,23058.0,none,Sunday
+2025-10-05,Food & Drinks,restaurants,5304.0,0.0,5304.0,none,Sunday
+2025-10-06,Food & Drinks,restaurants,7990.0,0.0,7990.0,none,Monday
+2025-10-06,Transport,travel card,4000.0,0.0,4000.0,none,Monday
+2025-10-06,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-10-06,Transport,taxi,7326.0,0.0,7326.0,none,Monday
+2025-10-06,Home & Utilities,home improvement,11022.0,0.0,11022.0,Toilet scrub replacement,Monday
+2025-10-07,Food & Drinks,restaurants,17660.0,0.0,17660.0,none,Tuesday
+2025-10-07,Food & Drinks,coffee & tea,5940.0,0.0,5940.0,none,Tuesday
+2025-10-07,Health & Personal Care,medicine,20018.0,0.0,20018.0,Nuvaring,Tuesday
+2025-10-07,Food & Drinks,restaurants,8994.0,0.0,8994.0,none,Tuesday
+2025-10-08,Food & Drinks,groceries,6020.0,0.0,6020.0,none,Wednesday
+2025-10-08,Food & Drinks,restaurants,9349.0,0.0,9349.0,none,Wednesday
+2025-10-08,Food & Drinks,coffee & tea,3420.0,0.0,3420.0,none,Wednesday
+2025-10-09,Food & Drinks,coffee & tea,4290.0,0.0,4290.0,none,Thursday
+2025-10-09,Leisure,games,27980.0,0.0,27980.0,Paint by color Impulse purchase,Thursday
+2025-10-09,Food & Drinks,groceries,41980.0,0.0,41980.0,Not Milk,Thursday
+2025-10-09,Food & Drinks,restaurants,17660.0,0.0,17660.0,none,Thursday
+2025-10-10,Home & Utilities,internet,26098.0,0.0,26098.0,none,Friday
+2025-10-10,Transport,taxi,4697.0,0.0,4697.0,none,Friday
+2025-10-10,Food & Drinks,restaurants,8690.0,0.0,8690.0,none,Friday
+2025-10-10,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Friday
+2025-10-11,Food & Drinks,alcohol,7800.0,0.0,7800.0,none,Saturday
+2025-10-11,Food & Drinks,alcohol,34485.0,0.0,34485.0,none,Saturday
+2025-10-11,Food & Drinks,coffee & tea,6270.0,0.0,6270.0,none,Saturday
+2025-10-11,Transport,taxi,5076.0,0.0,5076.0,none,Saturday
+2025-10-11,Transport,taxi,4194.0,0.0,4194.0,none,Saturday
+2025-10-11,Leisure,events,8960.0,0.0,8960.0,Luna en Lesbos,Saturday
+2025-10-11,Food & Drinks,restaurants,5076.0,0.0,5076.0,none,Saturday
+2025-10-12,Education,books/library,24050.0,0.0,24050.0,Silent Book Club bookmarks,Sunday
+2025-10-12,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Sunday
+2025-10-12,Transport,taxi,4696.0,0.0,4696.0,none,Sunday
+2025-10-12,Transport,travel card,4000.0,0.0,4000.0,none,Sunday
+2025-10-12,Education,AI,2990.0,0.0,2990.0,Bear Pro,Sunday
+2025-10-12,Food & Drinks,groceries,36075.0,0.0,36075.0,none,Sunday
+2025-10-12,Food & Drinks,groceries,1995.0,0.0,1995.0,Uber One,Sunday
+2025-10-12,Transport,taxi,5892.0,0.0,5892.0,none,Sunday
+2025-10-12,Food & Drinks,restaurants,6031.0,0.0,6031.0,none,Sunday
+2025-10-13,Food & Drinks,coffee & tea,4340.0,0.0,4340.0,none,Monday
+2025-10-13,Transport,taxi,6559.0,0.0,6559.0,none,Monday
+2025-10-13,Food & Drinks,restaurants,9889.0,0.0,9889.0,none,Monday
+2025-10-14,Leisure,events,22600.0,0.0,22600.0,Comedy night Diego Urrutia,Tuesday
+2025-10-14,Food & Drinks,restaurants,6962.0,0.0,6962.0,none,Tuesday
+2025-10-14,Transport,taxi,5495.0,0.0,5495.0,none,Tuesday
+2025-10-14,Transport,taxi,8566.0,0.0,8566.0,none,Tuesday
+2025-10-15,Health & Personal Care,medical services,1634.0,0.0,1634.0,Kine ,Wednesday
+2025-10-15,Food & Drinks,restaurants,9349.0,0.0,9349.0,none,Wednesday
+2025-10-16,Food & Drinks,coffee & tea,1200.0,0.0,1200.0,none,Thursday
+2025-10-16,Transport,taxi,4459.0,0.0,4459.0,none,Thursday
+2025-10-16,Transport,taxi,6729.0,0.0,6729.0,none,Thursday
+2025-10-17,Transport,taxi,8347.0,0.0,8347.0,none,Friday
+2025-10-17,Food & Drinks,restaurants,9300.0,0.0,9300.0,none,Friday
+2025-10-17,Transport,taxi,5002.0,0.0,5002.0,none,Friday
+2025-10-17,Food & Drinks,restaurants,6068.0,0.0,6068.0,none,Friday
+2025-10-17,Food & Drinks,groceries,8000.0,0.0,8000.0,none,Friday
+2025-10-18,Health & Personal Care,medical services,35196.0,0.0,35196.0,Stomach flu reimburse,Saturday
+2025-10-18,Health & Personal Care,medicine,24969.0,0.0,24969.0,none,Saturday
+2025-10-18,Home & Utilities,gastos comunes,239845.0,0.0,239845.0,none,Saturday
+2025-10-19,Food & Drinks,coffee & tea,4180.0,0.0,4180.0,none,Sunday
+2025-10-20,Food & Drinks,groceries,6784.0,0.0,6784.0,none,Monday
+2025-10-20,Food & Drinks,coffee & tea,10000.0,0.0,10000.0,none,Monday
+2025-10-20,Clothing & Footwear,clothes,14630.0,0.0,14630.0,Second hand skirt,Monday
+2025-10-20,Health & Personal Care,medical services,136259.0,0.0,136259.0,Invisalign payment,Monday
+2025-10-21,Transport,taxi,8381.0,0.0,8381.0,none,Tuesday
+2025-10-21,Education,AI,990.0,0.0,990.0,iCloud,Tuesday
+2025-10-21,Transport,travel card,4000.0,0.0,4000.0,none,Tuesday
+2025-10-21,Food & Drinks,restaurants,35318.0,0.0,35318.0,none,Tuesday
+2025-10-21,Health & Personal Care,medicine,19741.0,0.0,19741.0,Probiotics,Tuesday
+2025-10-21,Food & Drinks,groceries,2700.0,0.0,2700.0,none,Tuesday
+2025-10-22,Transport,taxi,5395.0,0.0,5395.0,none,Wednesday
+2025-10-22,Food & Drinks,restaurants,2500.0,0.0,2500.0,none,Wednesday
+2025-10-22,Health & Personal Care,cosmetics,46260.0,0.0,46260.0,Natura replacements and sunscreen,Wednesday
+2025-10-23,Health & Personal Care,medicine,11491.0,0.0,11491.0,Lexapro,Thursday
+2025-10-25,Leisure,events,22600.0,0.0,22600.0,Comedy,Saturday
+2025-11-01,Transport,travel,500.0,0.0,350777.0,Costa Rica trip,Saturday
+2025-11-03,Transport,airplane,427503.0,0.0,427503.0,LATAM Flights,Monday
+2025-11-03,Transport,travel,1591.95,0.0,1608030.0,Costa Rica trip!!,Monday
+2025-11-04,Transport,airplane,280.0,0.0,282828.0,Costa Rica flight,Tuesday
+2025-02-14,From Dubai,none,0.0,2978.0,2832644.0,none,Friday
+2025-03-03,Other,none,0.0,158730.0,158730.0,Silent Book Club,Monday
+2025-03-12,Other,none,0.0,96200.0,96200.0,Silent Book Club,Wednesday
+2025-04-25,Salary,BHP,0.0,4252287.0,4252287.0,none,Friday
+2025-05-23,Salary,BHP,0.0,3354858.0,3354858.0,none,Friday
+2025-05-26,Other,none,0.0,150000.0,150000.0,Silent Book Club Bookfluencers,Monday
+2025-05-31,Other,none,0.0,4343412.0,4343412.0,Tax return,Saturday
+2025-06-25,Salary,BHP,0.0,4217609.0,4217609.0,none,Wednesday
+2025-07-04,Other,none,0.0,70000.0,70000.0,Parking rent,Friday
+2025-07-25,Salary,BHP,0.0,6162765.0,6162765.0,none,Friday
+2025-08-05,Other,none,0.0,70000.0,70000.0,Parking,Tuesday
+2025-08-23,Salary,BHP,0.0,4296082.0,4296082.0,none,Saturday
+2025-09-01,Other,none,0.0,70000.0,70000.0,Parking,Monday
+2025-09-25,Salary,BHP,0.0,6385283.0,6385283.0,none,Thursday
+2025-10-04,Other,none,0.0,70000.0,70000.0,Parking,Saturday

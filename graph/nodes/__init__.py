@@ -1,4 +1,4 @@
-""
+"""
 Core nodes for the financial analytics graph.
 
 This package contains the main processing nodes for the financial analytics pipeline:

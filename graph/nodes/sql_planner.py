@@ -8,6 +8,7 @@ It uses a template-based approach to ensure safe and efficient queries.
 from typing import Dict, List, Optional, Tuple, Any, Literal
 from datetime import datetime
 from enum import Enum
+from typing import Dict, Any
 
 class SQLTemplateType(str, Enum):
     """Types of SQL templates available."""
@@ -264,3 +265,18 @@ class SQLPlanner:
         else:
             # Default to month
             return "strftime('%Y-%m', date)"
+
+
+def plan_sql(intent: Dict[str, Any], table_name: str = "transactions") -> Tuple[str, Dict[str, Any]]:
+    """
+    Generate SQL query and parameters from a parsed intent.
+    
+    Args:
+        intent: Parsed intent dictionary
+        table_name: Name of the transactions table
+        
+    Returns:
+        Tuple of (sql_query, parameters)
+    """
+    planner = SQLPlanner(table_name=table_name)
+    return planner.plan_sql(intent)
